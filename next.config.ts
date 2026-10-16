@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
+const isVercel = process.env.VERCEL === "1";
+
 const nextConfig: NextConfig = {
-  output: 'export',
+  // Use static export for local Bluehost builds, native Next.js for Vercel
+  ...(isVercel ? {} : { output: 'export' }),
   images: {
     unoptimized: true,
   },
