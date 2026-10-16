@@ -1,0 +1,135 @@
+elementor-245">
+Why Stuebner
+Services
+Projects
+Our Portfolio
+Commercial, Retail &#038; Hospitality
+Community &#038; Institutional
+Education
+Healthcare
+Public Sector
+Career
+About
+About Us
+Gallery
+Our People
+Behind the Build
+Contact Us
+X
+Careers at E.R. Stuebner
+Build Your Future with Us
+At E.R. Stuebner, we’re not just building structures, we’re building careers, relationships, and a legacy that has stood strong since 1951. With over 3,500 completed projects across diverse industries, our success is driven by the people behind the work.
+If you’re looking for more than just a job if you want to be part of a team that values craftsmanship, collaboration, and long-term growth you’ll find your place here.
+Why Work with E.R. Stuebner?
+A Legacy of Excellence
+For more than seven decades, we’ve built a reputation for quality, integrity, and reliability. When you join our team, you become part of that legacy.
+People First Culture
+We believe great projects start with great people. Our team is built on mutual respect, trust, and a shared commitment to doing things the right way.
+Our President/CEO Douglas George has transformed the Company through his dedication to quality, strong passion for innovation and an unwavering commitment to safety. Under its leadership, the company has grown into a forward-thinking general contractor that prioritizes quality, efficiency, and a safe, supportive working environment for every teammate.
+Diverse Project Experience
+From commercial and industrial facilities to institutional, religious, and retail spaces, you’ll gain hands-on experience across a wide range of project types and scales.
+Send us your resume  and Job experience
+careers@erscon.com
+We're Hiring
+Construction Project Manager
+Join the E.R. Stuebner, Inc. team!
+We&#8217;re looking for an experienced
+Project Manager
+to oversee commercial construction projects from preconstruction through closeout. If you&#8217;re organized, proactive, and thrive in a fast-paced environment, we&#8217;d love to hear from you.
+What You&#8217;ll Do:
+Manage all phases of commercial construction projects
+Develop and maintain project schedules and budgets
+Coordinate with owners, architects, subcontractors, and field staff
+Review contracts, submittals, RFIs, change orders, and project documentation
+Monitor project costs, productivity, and overall performance
+Ensure projects are completed safely, on time, and within budget
+Qualifications:
+Previous commercial construction project management experience
+Procore experience is MUST – this is a key part of our project management process
+Strong understanding of construction documents and project scheduling
+Excellent communication, leadership, and organizational skills
+Ability to manage multiple projects simultaneously
+Proficiency with Microsoft Office (Excel, Outlook, Word)
+Why Join E.R. Stuebner?
+Competitive salary
+Comprehensive benefits package
+Paid time off and holidays
+401(k) with company match
+Opportunity to work on exciting commercial construction projects with a collaborative, team-oriented company
+If you&#8217;re ready to take the next step in your construction management career, we&#8217;d love to hear from you!
+Apply today or send your resume to Should be careers@erscon.com
+Opportunities to Grow
+We invest in our people. Whether you’re just starting out or advancing your career, we provide opportunities for skill development, mentorship, and leadership.
+Team Environment
+Collaboration is at the heart of everything we do. You’ll work alongside experienced professionals who are committed to supporting one another and delivering exceptional results.
+Who We’re Looking For
+Collaboration is at the heart of everything we do. You’ll work alongside experienced professionals who are committed to supporting one another and delivering exceptional results.
+Dedicated and dependable
+Detail-oriented and quality-driven
+Strong communicators and team players
+Committed to safety and professionalism
+Eager to learn and grow
+E.R. Stuebner will always be forward-thinking; from our projects to our people, to our business, every aspect is well thought out so we consistently deliver. Our mission is to build and deliver each project on time, at cost, and of the highest possible quality.
+Our Services
+Linkdln
+Facebook
+Youtube
+Instagram
+Contact Us
+227 Blair Ave
+Reading, PA 19601
++1 (610) 376-6625
+info@erscon.com
+Copyright © 2026 | E.R. Stuebner General Contractor. All rights reserved.
+The E.R. Stuebner is not responsible for the content of external sites.
+Privacy Policy
+Terms of Use
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/astra/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+Scroll to Top
+( () => {
+const lazyloadRunObserver = () => {
+const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+entries.forEach( ( entry ) => {
+if ( entry.isIntersecting ) {
+let lazyloadBackground = entry.target;
+if( lazyloadBackground ) {
+lazyloadBackground.classList.add( 'e-lazyloaded' );
+}
+lazyloadBackgroundObserver.unobserve( entry.target );
+}
+});
+}, { rootMargin: '200px 0px 200px 0px' } );
+lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+lazyloadBackgroundObserver.observe( lazyloadBackground );
+} );
+};
+const events = [
+'DOMContentLoaded',
+'elementor/lazyload/observe',
+];
+events.forEach( ( event ) => {
+document.addEventListener( event, lazyloadRunObserver );
+} );
+} )();
+var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"1","is_scroll_to_top":"1","is_header_footer_builder_active":"1","responsive_cart_click":"flyout","is_dark_palette":""};
+//# sourceURL=astra-theme-js-js-extra
+var fluentformElementor = {"adminUrl":"https://ersconstruction.com/wp-admin/admin.php"};
+//# sourceURL=fluentform-elementor-js-extra
+jQuery.uiBackCompat = true;
+//# sourceURL=jquery-ui-core-js-before
+var EAELImageMaskingConfig = {"svg_dir_url":"https://ersconstruction.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/img/image-masking/svg-shapes/"};
+//# sourceURL=elementor-frontend-js-extra
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnX":"Share on X","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.3.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"nested-elements":true,"e_atomic_elements":true,"e_opt_in_v4":true,"import-export-customization":true},"urls":{"assets":"https:\/\/ersconstruction.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/ersconstruction.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/ersconstruction.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"38eb4427ed","atomicFormsSendForm":"35af92c899"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":245,"title":"Careers%20%E2%80%93%20E.R.%20Stuebner%20Construction","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+var ekit_config = {"ajaxurl":"https://ersconstruction.com/wp-admin/admin-ajax.php","nonce":"168e329f20","i18n":{"video_frame":"Video player","close":"Close","slider_prev":"Previous slide","slider_next":"Next slide","slider_first":"This is the first slide","slider_last":"This is the last slide","slider_bullet":"Go to slide {{index}}"}};
+//# sourceURL=ekit-core-js-extra
+var localize = {"ajaxurl":"https://ersconstruction.com/wp-admin/admin-ajax.php","nonce":"8ac077aac0","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https://ersconstruction.com/careers/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+//# sourceURL=eael-general-js-extra
+/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://ersconstruction.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.3"}}
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e
+{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()
+{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://ersconstruction.com/wp-includes/js/wp-emoji-loader.min.js
