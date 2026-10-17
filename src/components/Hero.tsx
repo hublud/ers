@@ -31,7 +31,7 @@ export default function Hero({ onOpenContact, onOpenProjects }: HeroProps) {
           muted
           loop
           playsInline
-          poster="/uploads/2026/08/imhe-1536x1138-1.png"
+          poster="/images/hero-poster.png"
           className="absolute inset-0 w-full h-full object-cover object-center scale-105 transition-opacity duration-700"
         >
           <source src="/videos/hero-background.mp4" type="video/mp4" />
@@ -44,7 +44,7 @@ export default function Hero({ onOpenContact, onOpenProjects }: HeroProps) {
         {/* Fallback Image if video cannot render */}
         <div className="absolute inset-0 -z-10">
           <Image
-            src="/uploads/2026/08/imhe-1536x1138-1.png"
+            src="/images/hero-poster.png"
             alt="E.R. Stuebner Construction Site Background"
             fill
             priority

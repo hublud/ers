@@ -196,7 +196,7 @@ export default function CareersPage() {
               <div className="lg:col-span-5">
                 <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white aspect-4/3 lg:aspect-auto lg:h-[580px]">
                   <Image
-                    src="/uploads/2026/07/Career_IMG01-1024x768.png"
+                    src="/images/careers-culture.png"
                     alt="E.R. Stuebner Construction Team on Site"
                     fill
                     className="object-cover"

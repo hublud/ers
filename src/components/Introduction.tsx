@@ -15,7 +15,7 @@ export default function Introduction({ onOpenSubcontractor }: IntroductionProps)
       {/* Background Image Layer matching live site .elementor-element-4a4bf1d4 */}
       <div className="absolute inset-0 z-0 pointer-events-none select-none">
         <Image
-          src="/uploads/2026/06/IMG_20260519_170608375_HDR_AE-scaled.jpg"
+          src="/images/introduction-bg.jpg"
           alt="E.R. Stuebner Construction Introduction"
           fill
           priority={false}

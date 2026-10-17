@@ -53,7 +53,7 @@ function ContactUsContent() {
       id: "project" as FormType,
       title: "I HAVE A CONSTRUCTION PROJECT",
       tagline: "Commercial, Educational, Healthcare & Industrial",
-      image: "/uploads/2026/07/IMG_20260713_151806-1-scaled.jpg",
+      image: "/images/contact/project-box.jpg",
       icon: Building,
       badgeText: "Plan Your Build",
       description:
@@ -63,7 +63,7 @@ function ContactUsContent() {
       id: "inquiries" as FormType,
       title: "INQUIRIES",
       tagline: "General Questions & Business Development",
-      image: "/uploads/2026/07/Inquiries_Img01-v1-1-scaled.jpg",
+      image: "/images/contact/inquiries-box.jpg",
       icon: HelpCircle,
       badgeText: "General Questions",
       description:
@@ -73,7 +73,7 @@ function ContactUsContent() {
       id: "subcontractor" as FormType,
       title: "BECOME A SUBCONTRACTOR",
       tagline: "Partner With Our Construction Network",
-      image: "/uploads/2026/07/Become-a-Subcontrator_Img01-v1-1-scaled.jpg",
+      image: "/images/contact/subcontractor-box.jpg",
       icon: HardHat,
       badgeText: "Bid List Application",
       description:
@@ -83,7 +83,7 @@ function ContactUsContent() {
       id: "careers" as FormType,
       title: "APPLY FOR A JOB AT STUEBNER",
       tagline: "Join a 75-Year Tradition of Excellence",
-      image: "/uploads/2026/07/Apply-for-a-Job_img01-v1-1-scaled.jpg",
+      image: "/images/contact/careers-box.jpg",
       icon: Briefcase,
       badgeText: "Careers & Hiring",
       description:

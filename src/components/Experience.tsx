@@ -10,7 +10,7 @@ interface ExperienceProps {
 
 export default function Experience({
   videoUrl = "/videos/hero-background.mp4#t=4,20",
-  posterUrl = "/uploads/2026/06/IMG_20260623_153038-scaled.jpg",
+  posterUrl = "/images/experience-poster.jpg",
 }: ExperienceProps) {
   const videoRef = useRef<HTMLVideoElement>(null);
   const [isMuted, setIsMuted] = useState(true);
