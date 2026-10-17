@@ -312,13 +312,12 @@ export default function OurPeoplePage() {
               We are constantly seeking dedicated project managers, superintendents, estimators, and craft specialists who take pride in building communities.
             </p>
             <div className="pt-4 flex flex-wrap items-center justify-center gap-4">
-              <button
-                type="button"
-                onClick={() => setIsContactOpen(true)}
-                className="px-8 py-3.5 rounded-lg bg-[#0070e0] hover:bg-[#005bb5] text-white font-medium text-sm transition-all shadow-md cursor-pointer"
+              <Link
+                href="/contact-us/"
+                className="px-8 py-3.5 rounded-lg bg-[#0070e0] hover:bg-[#005bb5] text-white font-medium text-sm transition-all shadow-md cursor-pointer inline-flex items-center justify-center"
               >
                 Connect With Our Team
-              </button>
+              </Link>
               <Link
                 href="/behind-the-build"
                 className="px-8 py-3.5 rounded-lg bg-white/10 hover:bg-white/20 text-white border border-white/20 font-medium text-sm transition-all"

@@ -339,13 +339,12 @@ export default function BehindTheBuildPage() {
               >
                 Meet Team Stuebner
               </Link>
-              <button
-                type="button"
-                onClick={() => setIsContactOpen(true)}
-                className="px-8 py-3.5 rounded-lg bg-white/10 hover:bg-white/20 text-white border border-white/20 font-medium text-sm transition-all cursor-pointer"
+              <Link
+                href="/contact-us/"
+                className="px-8 py-3.5 rounded-lg bg-white/10 hover:bg-white/20 text-white border border-white/20 font-medium text-sm transition-all cursor-pointer inline-flex items-center justify-center"
               >
                 Contact Our Team
-              </button>
+              </Link>
             </div>
           </div>
         </section>

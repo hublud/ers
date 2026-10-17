@@ -95,7 +95,7 @@ export default function Hero({ onOpenContact, onOpenProjects }: HeroProps) {
 
             {/* Secondary Pill Button: CONTACT US */}
             <Link
-              href="/contact-us"
+              href="/contact-us/"
               className="inline-flex items-center justify-center px-8 sm:px-9 py-3 sm:py-3.5 rounded-full bg-black/40 hover:bg-black/60 active:scale-[0.98] text-white text-xs sm:text-[13px] font-bold tracking-wider uppercase border border-white/25 hover:border-white/50 transition-all duration-150 backdrop-blur-xs cursor-pointer focus:outline-hidden focus:ring-2 focus:ring-white/40 focus:ring-offset-2 focus:ring-offset-[#0d1624]"
             >
               CONTACT US

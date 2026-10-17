@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
+import Link from "next/link";
 import { X, Building2, School, Stethoscope, Landmark, ExternalLink, Calendar, MapPin } from "lucide-react";
 
 interface ProjectsModalProps {
@@ -160,16 +161,13 @@ export default function ProjectsModal({ isOpen, onClose, onOpenContact }: Projec
                 Let our team of experienced builders turn your vision into reality.
               </p>
             </div>
-            <button
-              type="button"
-              onClick={() => {
-                onClose();
-                if (onOpenContact) onOpenContact();
-              }}
-              className="px-6 py-2.5 rounded-full bg-[#0070e0] hover:bg-[#005bb5] text-white text-xs font-bold uppercase tracking-wider shrink-0 transition-colors shadow-md"
+            <Link
+              href="/contact-us/"
+              onClick={onClose}
+              className="px-6 py-2.5 rounded-full bg-[#0070e0] hover:bg-[#005bb5] text-white text-xs font-bold uppercase tracking-wider shrink-0 transition-colors shadow-md inline-flex items-center justify-center cursor-pointer"
             >
               Request a Consultation
-            </button>
+            </Link>
           </div>
         </div>
       </div>

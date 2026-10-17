@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ContactModal from "@/components/ContactModal";
@@ -171,13 +172,12 @@ export default function OurPortfolioPage() {
                   <span>View All Projects</span>
                   <ArrowRight className="w-4 h-4" />
                 </button>
-                <button
-                  type="button"
-                  onClick={() => setContactModalOpen(true)}
+                <Link
+                  href="/contact-us/"
                   className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-white border border-slate-300 text-slate-800 font-semibold text-sm hover:bg-slate-50 transition-colors shadow-xs cursor-pointer"
                 >
                   Contact Us
-                </button>
+                </Link>
               </div>
             </div>
           </div>

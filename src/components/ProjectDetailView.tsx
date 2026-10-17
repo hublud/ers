@@ -182,13 +182,12 @@ export default function ProjectDetailView({ project }: ProjectDetailViewProps) {
 
                   {/* Action CTA inside sidebar */}
                   <div className="pt-4 border-t border-slate-200">
-                    <button
-                      type="button"
-                      onClick={() => setContactModalOpen(true)}
-                      className="w-full py-3 px-4 rounded-xl bg-[#0070e0] hover:bg-[#005bb8] text-white text-sm font-semibold transition-colors text-center shadow-xs cursor-pointer"
+                    <Link
+                      href="/contact-us/"
+                      className="block w-full py-3 px-4 rounded-xl bg-[#0070e0] hover:bg-[#005bb8] text-white text-sm font-semibold transition-colors text-center shadow-xs cursor-pointer"
                     >
                       Inquire About Similar Build
-                    </button>
+                    </Link>
                   </div>
                 </div>
               </div>

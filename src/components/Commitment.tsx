@@ -26,7 +26,7 @@ export default function Commitment() {
               <ArrowRight className="w-4 h-4" />
             </Link>
             <Link
-              href="/contact-us"
+              href="/contact-us/"
               className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white hover:bg-slate-50 text-slate-800 text-xs sm:text-sm font-bold uppercase tracking-wider border border-slate-300 hover:border-slate-400 transition-all shadow-xs"
             >
               <span>Contact Us</span>

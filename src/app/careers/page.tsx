@@ -479,7 +479,7 @@ export default function CareersPage() {
                 Submit Your Application Now
               </button>
               <Link
-                href="/contact-us"
+                href="/contact-us/"
                 className="inline-flex items-center justify-center px-8 py-4 rounded-xl font-bold text-white bg-white/10 hover:bg-white/20 border border-white/20 transition-all cursor-pointer"
               >
                 Contact Our Office

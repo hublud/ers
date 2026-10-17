@@ -352,7 +352,7 @@ export default function Navbar({ onOpenContact, onOpenProjects }: NavbarProps) {
             </div>
 
             <Link
-              href="/contact-us"
+              href="/contact-us/"
               className={`transition-colors duration-150 py-2 focus:outline-hidden cursor-pointer ${
                 isContact ? "text-[#0070e0] font-semibold" : "hover:text-[#0070e0]"
               }`}
@@ -596,7 +596,7 @@ export default function Navbar({ onOpenContact, onOpenProjects }: NavbarProps) {
 
           <div className="pt-2">
             <Link
-              href="/contact-us"
+              href="/contact-us/"
               onClick={() => setMobileMenuOpen(false)}
               className="w-full block py-3 px-4 rounded-xl text-center font-semibold text-white bg-[#0070e0] hover:bg-[#005bb5] transition-colors"
             >

@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
+import Link from "next/link";
 import { X, CheckCircle2, Phone, Mail, MapPin, Send, Info } from "lucide-react";
 
 interface ContactModalProps {
@@ -72,6 +73,18 @@ export default function ContactModal({ isOpen, onClose }: ContactModalProps) {
               <div className="bg-[#f9fbff] border border-blue-100 rounded-xl p-4 w-full max-w-md mb-6 text-left text-xs text-slate-700 space-y-2">
                 <div><strong className="text-slate-900">Email:</strong> <a href="mailto:info@erscon.com" className="text-[#0070e0] hover:underline">info@erscon.com</a></div>
                 <div><strong className="text-slate-900">Phone:</strong> <a href="tel:6103766625" className="text-[#0070e0] hover:underline">(610) 376-6625</a></div>
+                <div className="pt-1.5 border-t border-blue-100">
+                  <Link
+                    href="/contact-us/"
+                    onClick={() => {
+                      setSubmitted(false);
+                      onClose();
+                    }}
+                    className="text-[#0070e0] font-semibold hover:underline flex items-center gap-1"
+                  >
+                    Go to Full Contact Us Page &rarr;
+                  </Link>
+                </div>
               </div>
               <button
                 type="button"

@@ -51,7 +51,7 @@ export default function Introduction({ onOpenSubcontractor }: IntroductionProps)
         {/* CTA Button */}
         <div>
           <Link
-            href="/become-a-sub"
+            href="/contact-us/?tab=subcontractor"
             className="group inline-flex items-center justify-center gap-2 px-8 sm:px-9 py-3 sm:py-3.5 rounded-full bg-black/40 hover:bg-black/60 active:scale-[0.98] text-white text-xs sm:text-[13px] font-bold tracking-wider uppercase border border-white/80 hover:border-white transition-all duration-200 backdrop-blur-xs cursor-pointer focus:outline-hidden focus:ring-2 focus:ring-white/50 focus:ring-offset-2 focus:ring-offset-[#091526]"
           >
             <span>BECOME A SUB CONTRACTOR</span>

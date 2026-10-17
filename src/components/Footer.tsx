@@ -103,7 +103,7 @@ export default function Footer({ onOpenContact }: FooterProps) {
           {/* Col 3: Contact Us Details */}
           <div className="space-y-4">
             <h3 className="text-lg sm:text-xl font-bold tracking-tight text-white mb-5">
-              <Link href="/contact-us" className="hover:text-[#0070e0] transition-colors">
+              <Link href="/contact-us/" className="hover:text-[#0070e0] transition-colors">
                 Contact Us
               </Link>
             </h3>

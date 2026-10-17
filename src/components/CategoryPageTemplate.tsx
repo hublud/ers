@@ -151,13 +151,12 @@ export default function CategoryPageTemplate({
               </div>
 
               <div className="flex items-center gap-3 shrink-0">
-                <button
-                  type="button"
-                  onClick={() => setContactModalOpen(true)}
-                  className="px-6 py-3 rounded-lg bg-[#0070e0] text-white font-semibold text-sm hover:bg-[#005bb8] transition-colors shadow-xs cursor-pointer"
+                <Link
+                  href="/contact-us/"
+                  className="px-6 py-3 rounded-lg bg-[#0070e0] text-white font-semibold text-sm hover:bg-[#005bb8] transition-colors shadow-xs cursor-pointer inline-flex items-center justify-center"
                 >
                   Contact Our Builders
-                </button>
+                </Link>
                 <button
                   type="button"
                   onClick={() => setProjectsModalOpen(true)}

@@ -76,13 +76,12 @@ export default function AboutUsPage() {
                 <span>View Completed Projects</span>
                 <ArrowRight className="w-4 h-4" />
               </button>
-              <button
-                type="button"
-                onClick={() => setIsContactOpen(true)}
-                className="px-6 py-3 rounded-lg bg-white/10 hover:bg-white/20 text-white border border-white/30 font-medium text-sm transition-all cursor-pointer"
+              <Link
+                href="/contact-us/"
+                className="px-6 py-3 rounded-lg bg-white/10 hover:bg-white/20 text-white border border-white/30 font-medium text-sm transition-all cursor-pointer inline-flex items-center justify-center"
               >
                 Get In Touch
-              </button>
+              </Link>
             </div>
           </div>
         </section>
@@ -343,14 +342,13 @@ export default function AboutUsPage() {
                     &ldquo;Our mission is to build and deliver each project on time, at cost, and of the highest possible quality.&rdquo;
                   </p>
                 </div>
-                <button
-                  type="button"
-                  onClick={() => setIsContactOpen(true)}
+                <Link
+                  href="/contact-us/"
                   className="inline-flex items-center gap-2 text-sm font-semibold text-[#0070e0] hover:text-[#005bb5] transition-colors pt-2 cursor-pointer text-left"
                 >
                   <span>Start a Conversation</span>
                   <ArrowRight className="w-4 h-4" />
-                </button>
+                </Link>
               </div>
             </div>
           </div>
@@ -366,13 +364,12 @@ export default function AboutUsPage() {
               Connect with our experienced team to discover how our collaborative, transparent approach can bring your vision to life.
             </p>
             <div className="pt-4 flex flex-wrap items-center justify-center gap-4">
-              <button
-                type="button"
-                onClick={() => setIsContactOpen(true)}
-                className="px-8 py-3.5 rounded-lg bg-[#0070e0] hover:bg-[#005bb5] text-white font-medium text-sm transition-all shadow-md cursor-pointer"
+              <Link
+                href="/contact-us/"
+                className="px-8 py-3.5 rounded-lg bg-[#0070e0] hover:bg-[#005bb5] text-white font-medium text-sm transition-all shadow-md cursor-pointer inline-flex items-center justify-center"
               >
                 Contact Us Today
-              </button>
+              </Link>
               <Link
                 href="/gallery"
                 className="px-8 py-3.5 rounded-lg bg-white/10 hover:bg-white/20 text-white border border-white/20 font-medium text-sm transition-all"
