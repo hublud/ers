@@ -43,6 +43,7 @@ next-env.d.ts
 # local assets archive & temp files
 /res image/
 public/uploads/
+scratch/
 find_css_bgs.js
 scratch_get_images.js
 scratch_post_237.css

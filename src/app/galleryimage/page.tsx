@@ -304,38 +304,11 @@ export default function GalleryImagePage() {
               } gap-5 sm:gap-6`}
             >
               {visibleImages.map((img, index) => (
-                <div
+                <ArchiveCard
                   key={img.id}
+                  img={img}
                   onClick={() => setLightboxIndex(index)}
-                  className="group relative rounded-xl overflow-hidden bg-white border border-slate-200/90 shadow-2xs hover:shadow-xl transition-all duration-300 cursor-pointer aspect-4/3"
-                >
-                  <Image
-                    src={img.src}
-                    alt={img.title}
-                    fill
-                    loading="lazy"
-                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                    className="object-cover transition-transform duration-500 group-hover:scale-105"
-                  />
-
-                  {/* Category Pill Tag */}
-                  <div className="absolute top-3 left-3 z-10">
-                    <span className="px-2.5 py-0.5 rounded-full text-[10px] font-bold tracking-wider uppercase bg-slate-950/75 backdrop-blur-xs text-white border border-white/20">
-                      {img.category}
-                    </span>
-                  </div>
-
-                  {/* Hover Overlay */}
-                  <div className="absolute inset-0 bg-gradient-to-t from-slate-950/90 via-slate-950/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-200 flex flex-col justify-end p-4 text-white z-20">
-                    <h3 className="text-sm sm:text-base font-bold line-clamp-1 leading-snug drop-shadow-xs">
-                      {img.title}
-                    </h3>
-                    <div className="flex items-center justify-between text-[11px] text-slate-300 mt-1">
-                      <span>Click to enlarge</span>
-                      <Maximize2 className="w-3.5 h-3.5" />
-                    </div>
-                  </div>
-                </div>
+                />
               ))}
             </div>
 
@@ -412,6 +385,10 @@ export default function GalleryImagePage() {
                   fill
                   priority
                   className="object-contain"
+                  onError={(e) => {
+                    const target = e.target as HTMLImageElement;
+                    if (target) target.src = "/images/gallery/gallery-1.jpg";
+                  }}
                 />
               </div>
 
@@ -442,3 +419,53 @@ export default function GalleryImagePage() {
     </div>
   );
 }
+
+function ArchiveCard({
+  img,
+  onClick,
+}: {
+  img: GalleryImageItem;
+  onClick: () => void;
+}) {
+  const [src, setSrc] = useState(img.src);
+
+  return (
+    <div
+      onClick={onClick}
+      className="group relative rounded-xl overflow-hidden bg-slate-100 border border-slate-200/90 shadow-2xs hover:shadow-xl transition-all duration-300 cursor-pointer aspect-4/3"
+    >
+      <Image
+        src={src}
+        alt={img.title}
+        fill
+        loading="lazy"
+        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+        className="object-cover transition-transform duration-500 group-hover:scale-105"
+        onError={() => {
+          if (src !== "/images/gallery/gallery-1.jpg") {
+            setSrc("/images/gallery/gallery-1.jpg");
+          }
+        }}
+      />
+
+      {/* Category Pill Tag */}
+      <div className="absolute top-3 left-3 z-10">
+        <span className="px-2.5 py-0.5 rounded-full text-[10px] font-bold tracking-wider uppercase bg-slate-950/75 backdrop-blur-xs text-white border border-white/20">
+          {img.category}
+        </span>
+      </div>
+
+      {/* Hover Overlay */}
+      <div className="absolute inset-0 bg-gradient-to-t from-slate-950/90 via-slate-950/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-200 flex flex-col justify-end p-4 text-white z-20">
+        <h3 className="text-sm sm:text-base font-bold line-clamp-1 leading-snug drop-shadow-xs">
+          {img.title}
+        </h3>
+        <div className="flex items-center justify-between text-[11px] text-slate-300 mt-1">
+          <span>Click to enlarge</span>
+          <Maximize2 className="w-3.5 h-3.5" />
+        </div>
+      </div>
+    </div>
+  );
+}
+

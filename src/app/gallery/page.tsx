@@ -32,6 +32,7 @@ interface GalleryItem {
 }
 
 const GALLERY_PHOTOS: GalleryItem[] = [
+  // Commercial
   {
     id: "g1",
     title: "Structural Steel & Framing",
@@ -41,38 +42,165 @@ const GALLERY_PHOTOS: GalleryItem[] = [
   },
   {
     id: "g2",
-    title: "Limerick Municipal Center",
-    category: "Municipal",
-    src: "/images/gallery/gallery-2.jpg",
-    description: "Full-scale civic and municipal building development built to LEED energy standards.",
+    title: "Lehigh Airport Main Terminal Concourse",
+    category: "Commercial",
+    src: "/images/projects/lehigh-card.jpg",
+    description: "Multi-phase airport passenger terminal modernization, concourse expansion, and security integration.",
   },
   {
     id: "g3",
-    title: "Executive Office Corridor & Architectural Finishes",
-    category: "Interior",
-    src: "/images/gallery/gallery-3.jpg",
-    description: "Turnkey architectural finishes, custom acoustic ceilings, and precision lighting.",
+    title: "Diamond Credit Union Premier Branch",
+    category: "Commercial",
+    src: "/images/projects/diamond-card.jpg",
+    description: "Signature retail banking facility with expansive curtain walls, consultation pods, and drive-through canopies.",
   },
   {
     id: "g4",
-    title: "Ardmore Field Operations",
+    title: "Staybridge Hotel & Hospitality Suites",
     category: "Commercial",
-    src: "/images/people/ardmore-team.jpg",
-    description: "Hands-on field supervision and trade coordination ensuring safety and schedule adherence.",
+    src: "/images/projects/staybridge-card.jpg",
+    description: "105-suite 4-story extended-stay hotel facility delivered early under Guaranteed Maximum Price (GMP).",
   },
   {
     id: "g5",
-    title: "Coopertown Elementary School Facility",
-    category: "Education",
-    src: "/images/CooperTown-ES-Images-1.jpg",
-    description: "Modern state-of-the-art educational facility with collaborative spaces and gymnasiums.",
+    title: "Jeffersonville Golf Club & Hospitality Complex",
+    category: "Commercial",
+    src: "/images/projects/jeffersonville-card.jpg",
+    description: "Grand banquet ballroom, pro shop, restaurant, commercial kitchen, and indoor virtual golf simulators.",
   },
   {
     id: "g6",
+    title: "Ardmore Field Supervision & Operations",
+    category: "Commercial",
+    src: "/images/people/ardmore-team.jpg",
+    description: "Hands-on field supervision and trade coordination ensuring safety, quality, and schedule adherence.",
+  },
+
+  // Municipal
+  {
+    id: "g7",
+    title: "Limerick Municipal Center",
+    category: "Municipal",
+    src: "/images/gallery/gallery-2.jpg",
+    description: "Full-scale civic and municipal building development built to LEED energy efficiency standards.",
+  },
+  {
+    id: "g8",
+    title: "Northampton Fire Station Facility",
+    category: "Municipal",
+    src: "/images/projects/northampton-fire-card.jpg",
+    description: "Modernized municipal emergency apparatus bays, crew quarters, and community training rooms.",
+  },
+  {
+    id: "g9",
+    title: "Harmonville Fire Department Complex",
+    category: "Municipal",
+    src: "/images/projects/harmonville-fire-card.jpg",
+    description: "High-capacity emergency response station featuring multi-bay apparatus bays and administrative headquarters.",
+  },
+  {
+    id: "g10",
+    title: "Berks Area Regional Transit Terminal",
+    category: "Municipal",
+    src: "/images/projects/berks-transit-card.jpg",
+    description: "Regional transportation terminal development with heavy transit lanes and passenger circulation concourses.",
+  },
+
+  // Education
+  {
+    id: "g11",
+    title: "Coopertown Elementary School Facility",
+    category: "Education",
+    src: "/images/CooperTown-ES-Images-1.jpg",
+    description: "Modern state-of-the-art educational facility with collaborative classrooms, media centers, and gymnasiums.",
+  },
+  {
+    id: "g12",
+    title: "Wilson High School Campus Modernization",
+    category: "Education",
+    src: "/images/projects/wilson-hs-card.jpg",
+    description: "Comprehensive secondary education additions, science laboratory wings, and campus safety infrastructure.",
+  },
+  {
+    id: "g13",
+    title: "Lincoln Middle School Educational Wing",
+    category: "Education",
+    src: "/images/projects/lincoln-ms-card.webp",
+    description: "STEM academies, collaborative learning suites, and energy-efficient building envelope design.",
+  },
+  {
+    id: "g14",
+    title: "DCIU Marple Education Campus",
+    category: "Education",
+    src: "/images/projects/dciu-marple-card.webp",
+    description: "Specialized vocational and educational learning center delivering inclusive instructional facilities.",
+  },
+  {
+    id: "g15",
+    title: "Uwchlan Hills Elementary School",
+    category: "Education",
+    src: "/images/projects/uwchlan-hills-card.jpg",
+    description: "Multi-phase public elementary school renovation and classroom addition delivered on active campuses.",
+  },
+
+  // Interior
+  {
+    id: "g16",
+    title: "Executive Office Corridor & Architectural Finishes",
+    category: "Interior",
+    src: "/images/gallery/gallery-3.jpg",
+    description: "Turnkey architectural finishes, custom acoustic ceilings, and precision architectural lighting.",
+  },
+  {
+    id: "g17",
+    title: "Diamond Credit Union Custom Millwork",
+    category: "Interior",
+    src: "/images/projects/diamond-03.jpg",
+    description: "Custom geometric wood ceiling accents, high-security teller counters, and hospitality lounges.",
+  },
+  {
+    id: "g18",
+    title: "Jeffersonville Grand Banquet Ballroom",
+    category: "Interior",
+    src: "/images/projects/jeff-banquet-01.jpg",
+    description: "Spacious banquet hall accommodating over 200 guests with custom chandeliers and scenic views.",
+  },
+  {
+    id: "g19",
+    title: "Airport Passenger Circulation Concourse",
+    category: "Interior",
+    src: "/images/projects/lehigh-int-2.jpg",
+    description: "High-traffic terrazzo circulation corridors, energy-efficient LED luminaires, and security vestibules.",
+  },
+
+  // Institutional
+  {
+    id: "g20",
     title: "Downingtown Institutional Complex",
     category: "Institutional",
     src: "/images/Downingtown-01.jpg",
     description: "Multi-phase institutional campus expansion delivered on-time and within budget.",
+  },
+  {
+    id: "g21",
+    title: "Bishop McDevitt Campus Expansion",
+    category: "Institutional",
+    src: "/images/projects/bishop-mcdevitt-card.jpg",
+    description: "Comprehensive institutional campus construction including academic halls and athletic facilities.",
+  },
+  {
+    id: "g22",
+    title: "Central Bucks South Educational Complex",
+    category: "Institutional",
+    src: "/images/projects/central-bucks-south-card.jpg",
+    description: "State-of-the-art campus development supporting over 1,700 students with dedicated arts and science spaces.",
+  },
+  {
+    id: "g23",
+    title: "Palmerton School District Campus",
+    category: "Institutional",
+    src: "/images/projects/palmerton-sd-card.jpg",
+    description: "Extensive campus upgrades, structural additions, and modern administrative facilities.",
   },
 ];
 
@@ -533,34 +661,11 @@ export default function GalleryPage() {
             {/* Photo Grid */}
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
               {filteredPhotos.map((photo, index) => (
-                <div
+                <GalleryCard
                   key={photo.id}
+                  photo={photo}
                   onClick={() => setActivePhotoIndex(index)}
-                  className="group relative rounded-2xl overflow-hidden bg-slate-100 border border-slate-200 shadow-sm hover:shadow-xl transition-all duration-300 cursor-pointer aspect-4/3"
-                >
-                  <Image
-                    src={photo.src}
-                    alt={photo.title}
-                    fill
-                    className="object-cover transition-transform duration-500 group-hover:scale-105"
-                  />
-                  {/* Hover Overlay */}
-                  <div className="absolute inset-0 bg-gradient-to-t from-slate-950/85 via-slate-950/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-6 text-white">
-                    <span className="text-xs font-semibold uppercase tracking-wider text-blue-400 mb-1">
-                      {photo.category}
-                    </span>
-                    <h3 className="text-base sm:text-lg font-bold mb-1 leading-snug">
-                      {photo.title}
-                    </h3>
-                    <p className="text-xs text-slate-300 line-clamp-2 mb-3">
-                      {photo.description}
-                    </p>
-                    <span className="inline-flex items-center gap-1.5 text-xs font-semibold text-white">
-                      <span>Click to enlarge</span>
-                      <Maximize2 className="w-3.5 h-3.5" />
-                    </span>
-                  </div>
-                </div>
+                />
               ))}
             </div>
 
@@ -633,6 +738,10 @@ export default function GalleryPage() {
                   alt={filteredPhotos[activePhotoIndex].title}
                   fill
                   className="object-contain"
+                  onError={(e) => {
+                    const target = e.target as HTMLImageElement;
+                    if (target) target.src = "/images/gallery/gallery-1.jpg";
+                  }}
                 />
               </div>
 
@@ -661,3 +770,49 @@ export default function GalleryPage() {
     </div>
   );
 }
+
+function GalleryCard({
+  photo,
+  onClick,
+}: {
+  photo: GalleryItem;
+  onClick: () => void;
+}) {
+  const [imgSrc, setImgSrc] = useState(photo.src);
+
+  return (
+    <div
+      onClick={onClick}
+      className="group relative rounded-2xl overflow-hidden bg-slate-100 border border-slate-200 shadow-sm hover:shadow-xl transition-all duration-300 cursor-pointer aspect-4/3"
+    >
+      <Image
+        src={imgSrc}
+        alt={photo.title}
+        fill
+        className="object-cover transition-transform duration-500 group-hover:scale-105"
+        onError={() => {
+          if (imgSrc !== "/images/gallery/gallery-1.jpg") {
+            setImgSrc("/images/gallery/gallery-1.jpg");
+          }
+        }}
+      />
+      {/* Hover Overlay */}
+      <div className="absolute inset-0 bg-gradient-to-t from-slate-950/85 via-slate-950/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-6 text-white">
+        <span className="text-xs font-semibold uppercase tracking-wider text-blue-400 mb-1">
+          {photo.category}
+        </span>
+        <h3 className="text-base sm:text-lg font-bold mb-1 leading-snug">
+          {photo.title}
+        </h3>
+        <p className="text-xs text-slate-300 line-clamp-2 mb-3">
+          {photo.description}
+        </p>
+        <span className="inline-flex items-center gap-1.5 text-xs font-semibold text-white">
+          <span>Click to enlarge</span>
+          <Maximize2 className="w-3.5 h-3.5" />
+        </span>
+      </div>
+    </div>
+  );
+}
+
