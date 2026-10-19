@@ -41,7 +41,6 @@ const CATEGORIES = [
   "Institutional",
   "Healthcare",
   "Field & Construction",
-  "General",
 ];
 
 const ITEMS_PER_PAGE = 36;

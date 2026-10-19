@@ -1,36 +1,9 @@
 [
   {
-    "id": "img-1",
-    "src": "/images/gallery-archive/img-1.webp",
-    "title": "17a",
-    "category": "General",
-    "filename": "img-1.webp",
-    "originalName": "17a.jpg",
-    "size": 6042
-  },
-  {
-    "id": "img-2",
-    "src": "/images/gallery-archive/img-2.webp",
-    "title": "32a",
-    "category": "General",
-    "filename": "img-2.webp",
-    "originalName": "32a.jpg",
-    "size": 15636
-  },
-  {
-    "id": "img-3",
-    "src": "/images/gallery-archive/img-3.webp",
-    "title": "About IMG 1 1",
-    "category": "General",
-    "filename": "img-3.webp",
-    "originalName": "about_img-1-1.png",
-    "size": 17330
-  },
-  {
     "id": "img-4",
     "src": "/images/gallery-archive/img-4.webp",
     "title": "Apci 6 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-4.webp",
     "originalName": "apci-6-1.jpg",
     "size": 401026
@@ -39,7 +12,7 @@
     "id": "img-5",
     "src": "/images/gallery-archive/img-5.webp",
     "title": "Apci 6",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-5.webp",
     "originalName": "apci-6.jpg",
     "size": 401026
@@ -120,7 +93,7 @@
     "id": "img-14",
     "src": "/images/gallery-archive/img-14.webp",
     "title": "CCA 01",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-14.webp",
     "originalName": "CCA-01.jpg",
     "size": 185398
@@ -129,7 +102,7 @@
     "id": "img-15",
     "src": "/images/gallery-archive/img-15.webp",
     "title": "CCA 02",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-15.webp",
     "originalName": "CCA-02.jpg",
     "size": 138470
@@ -138,7 +111,7 @@
     "id": "img-16",
     "src": "/images/gallery-archive/img-16.webp",
     "title": "CCA 03",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-16.webp",
     "originalName": "CCA-03.jpg",
     "size": 133286
@@ -147,7 +120,7 @@
     "id": "img-17",
     "src": "/images/gallery-archive/img-17.webp",
     "title": "CCA 04",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-17.webp",
     "originalName": "CCA-04.jpg",
     "size": 49832
@@ -156,7 +129,7 @@
     "id": "img-18",
     "src": "/images/gallery-archive/img-18.webp",
     "title": "CCA 05",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-18.webp",
     "originalName": "CCA-05.jpg",
     "size": 47458
@@ -165,7 +138,7 @@
     "id": "img-19",
     "src": "/images/gallery-archive/img-19.webp",
     "title": "CCA 06",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-19.webp",
     "originalName": "CCA-06.jpg",
     "size": 77042
@@ -174,7 +147,7 @@
     "id": "img-20",
     "src": "/images/gallery-archive/img-20.webp",
     "title": "CCA 07",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-20.webp",
     "originalName": "CCA-07.jpg",
     "size": 65852
@@ -183,7 +156,7 @@
     "id": "img-21",
     "src": "/images/gallery-archive/img-21.webp",
     "title": "CCA 08",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-21.webp",
     "originalName": "CCA-08.jpg",
     "size": 84886
@@ -192,7 +165,7 @@
     "id": "img-22",
     "src": "/images/gallery-archive/img-22.webp",
     "title": "CCA 09",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-22.webp",
     "originalName": "CCA-09.jpg",
     "size": 86394
@@ -201,7 +174,7 @@
     "id": "img-23",
     "src": "/images/gallery-archive/img-23.webp",
     "title": "CCA 10",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-23.webp",
     "originalName": "CCA-10.jpg",
     "size": 77822
@@ -210,7 +183,7 @@
     "id": "img-24",
     "src": "/images/gallery-archive/img-24.webp",
     "title": "CCA 11",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-24.webp",
     "originalName": "CCA-11.jpg",
     "size": 73124
@@ -219,7 +192,7 @@
     "id": "img-25",
     "src": "/images/gallery-archive/img-25.webp",
     "title": "CCA 12",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-25.webp",
     "originalName": "CCA-12.jpg",
     "size": 80232
@@ -228,7 +201,7 @@
     "id": "img-26",
     "src": "/images/gallery-archive/img-26.webp",
     "title": "CCA 13",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-26.webp",
     "originalName": "CCA-13.jpg",
     "size": 65392
@@ -237,7 +210,7 @@
     "id": "img-27",
     "src": "/images/gallery-archive/img-27.webp",
     "title": "CCA 14",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-27.webp",
     "originalName": "CCA-14.jpg",
     "size": 70290
@@ -246,7 +219,7 @@
     "id": "img-28",
     "src": "/images/gallery-archive/img-28.webp",
     "title": "CCA 15",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-28.webp",
     "originalName": "CCA-15.jpg",
     "size": 64388
@@ -255,7 +228,7 @@
     "id": "img-29",
     "src": "/images/gallery-archive/img-29.webp",
     "title": "CCA 16",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-29.webp",
     "originalName": "CCA-16.jpg",
     "size": 54532
@@ -264,7 +237,7 @@
     "id": "img-30",
     "src": "/images/gallery-archive/img-30.webp",
     "title": "CCA 17",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-30.webp",
     "originalName": "CCA-17.jpg",
     "size": 46062
@@ -273,7 +246,7 @@
     "id": "img-31",
     "src": "/images/gallery-archive/img-31.webp",
     "title": "CCA 18",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-31.webp",
     "originalName": "CCA-18.jpg",
     "size": 52618
@@ -282,7 +255,7 @@
     "id": "img-32",
     "src": "/images/gallery-archive/img-32.webp",
     "title": "CCA 19",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-32.webp",
     "originalName": "CCA-19.jpg",
     "size": 36528
@@ -291,7 +264,7 @@
     "id": "img-33",
     "src": "/images/gallery-archive/img-33.webp",
     "title": "CCA 21",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-33.webp",
     "originalName": "CCA-21.jpg",
     "size": 81874
@@ -300,7 +273,7 @@
     "id": "img-34",
     "src": "/images/gallery-archive/img-34.webp",
     "title": "CCA 22",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-34.webp",
     "originalName": "CCA-22.jpg",
     "size": 94808
@@ -309,7 +282,7 @@
     "id": "img-35",
     "src": "/images/gallery-archive/img-35.webp",
     "title": "CCA 23",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-35.webp",
     "originalName": "CCA-23.jpg",
     "size": 82562
@@ -318,7 +291,7 @@
     "id": "img-36",
     "src": "/images/gallery-archive/img-36.webp",
     "title": "CCA 24",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-36.webp",
     "originalName": "CCA-24.jpg",
     "size": 64692
@@ -327,7 +300,7 @@
     "id": "img-37",
     "src": "/images/gallery-archive/img-37.webp",
     "title": "CCA 25",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-37.webp",
     "originalName": "CCA-25.jpg",
     "size": 250636
@@ -336,7 +309,7 @@
     "id": "img-38",
     "src": "/images/gallery-archive/img-38.webp",
     "title": "CCA 26",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-38.webp",
     "originalName": "CCA-26.jpg",
     "size": 214760
@@ -345,7 +318,7 @@
     "id": "img-39",
     "src": "/images/gallery-archive/img-39.webp",
     "title": "CCA 27",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-39.webp",
     "originalName": "CCA-27.jpg",
     "size": 192426
@@ -354,7 +327,7 @@
     "id": "img-40",
     "src": "/images/gallery-archive/img-40.webp",
     "title": "CCA 28",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-40.webp",
     "originalName": "CCA-28.jpg",
     "size": 104392
@@ -363,7 +336,7 @@
     "id": "img-41",
     "src": "/images/gallery-archive/img-41.webp",
     "title": "CCA 29",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-41.webp",
     "originalName": "CCA-29.jpg",
     "size": 207376
@@ -372,82 +345,19 @@
     "id": "img-42",
     "src": "/images/gallery-archive/img-42.webp",
     "title": "CCA 30",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-42.webp",
     "originalName": "CCA-30.jpg",
     "size": 134666
   },
   {
-    "id": "img-43",
-    "src": "/images/gallery-archive/img-43.webp",
-    "title": "Contact Image",
-    "category": "General",
-    "filename": "img-43.webp",
-    "originalName": "contact-image.webp",
-    "size": 11352
-  },
-  {
-    "id": "img-44",
-    "src": "/images/gallery-archive/img-44.webp",
-    "title": "Contact Page Map Bg",
-    "category": "General",
-    "filename": "img-44.webp",
-    "originalName": "contact-page-map-bg.webp",
-    "size": 15254
-  },
-  {
-    "id": "img-45",
-    "src": "/images/gallery-archive/img-45.webp",
-    "title": "Course IMG 4",
-    "category": "General",
-    "filename": "img-45.webp",
-    "originalName": "course_img-4.jpeg",
-    "size": 14252
-  },
-  {
-    "id": "img-46",
-    "src": "/images/gallery-archive/img-46.webp",
-    "title": "Course IMG 5",
-    "category": "General",
-    "filename": "img-46.webp",
-    "originalName": "course_img-5.jpeg",
-    "size": 14894
-  },
-  {
-    "id": "img-47",
-    "src": "/images/gallery-archive/img-47.webp",
-    "title": "Course IMG",
-    "category": "General",
-    "filename": "img-47.webp",
-    "originalName": "course_img.jpeg",
-    "size": 11782
-  },
-  {
     "id": "img-48",
     "src": "/images/gallery-archive/img-48.webp",
     "title": "DCIU1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-48.webp",
     "originalName": "DCIU1.jpg",
     "size": 53600
-  },
-  {
-    "id": "img-49",
-    "src": "/images/gallery-archive/img-49.webp",
-    "title": "Doug George 1",
-    "category": "General",
-    "filename": "img-49.webp",
-    "originalName": "Doug-George-1.jpg",
-    "size": 41006
-  },
-  {
-    "id": "img-50",
-    "src": "/images/gallery-archive/img-50.webp",
-    "title": "Doug George",
-    "category": "General",
-    "filename": "img-50.webp",
-    "originalName": "Doug-George.jpg",
-    "size": 29316
   },
   {
     "id": "img-51",
@@ -684,19 +594,10 @@
     "size": 70892
   },
   {
-    "id": "img-77",
-    "src": "/images/gallery-archive/img-77.webp",
-    "title": "Education Schoogalleryl",
-    "category": "General",
-    "filename": "img-77.webp",
-    "originalName": "Education-Schoogalleryl.png",
-    "size": 56800
-  },
-  {
     "id": "img-78",
     "src": "/images/gallery-archive/img-78.webp",
     "title": "ERS SHS Image1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-78.webp",
     "originalName": "ERS_SHS_image1.jpg",
     "size": 157804
@@ -705,7 +606,7 @@
     "id": "img-79",
     "src": "/images/gallery-archive/img-79.webp",
     "title": "ERS SHS Image10",
-    "category": "General",
+    "category": "Education",
     "filename": "img-79.webp",
     "originalName": "ERS_SHS_image10.jpg",
     "size": 101586
@@ -714,7 +615,7 @@
     "id": "img-80",
     "src": "/images/gallery-archive/img-80.webp",
     "title": "ERS SHS Image2",
-    "category": "General",
+    "category": "Education",
     "filename": "img-80.webp",
     "originalName": "ERS_SHS_image2.jpg",
     "size": 101966
@@ -723,7 +624,7 @@
     "id": "img-81",
     "src": "/images/gallery-archive/img-81.webp",
     "title": "ERS SHS Image3",
-    "category": "General",
+    "category": "Education",
     "filename": "img-81.webp",
     "originalName": "ERS_SHS_image3.jpg",
     "size": 88658
@@ -732,7 +633,7 @@
     "id": "img-82",
     "src": "/images/gallery-archive/img-82.webp",
     "title": "ERS SHS Image4",
-    "category": "General",
+    "category": "Education",
     "filename": "img-82.webp",
     "originalName": "ERS_SHS_image4.jpg",
     "size": 83076
@@ -741,7 +642,7 @@
     "id": "img-83",
     "src": "/images/gallery-archive/img-83.webp",
     "title": "ERS SHS Image5",
-    "category": "General",
+    "category": "Education",
     "filename": "img-83.webp",
     "originalName": "ERS_SHS_image5.jpg",
     "size": 93432
@@ -750,7 +651,7 @@
     "id": "img-84",
     "src": "/images/gallery-archive/img-84.webp",
     "title": "ERS SHS Image6",
-    "category": "General",
+    "category": "Education",
     "filename": "img-84.webp",
     "originalName": "ERS_SHS_image6.jpg",
     "size": 113322
@@ -759,7 +660,7 @@
     "id": "img-85",
     "src": "/images/gallery-archive/img-85.webp",
     "title": "ERS SHS Image7",
-    "category": "General",
+    "category": "Education",
     "filename": "img-85.webp",
     "originalName": "ERS_SHS_image7.jpg",
     "size": 100254
@@ -768,7 +669,7 @@
     "id": "img-86",
     "src": "/images/gallery-archive/img-86.webp",
     "title": "ERS SHS Image8",
-    "category": "General",
+    "category": "Education",
     "filename": "img-86.webp",
     "originalName": "ERS_SHS_image8.jpg",
     "size": 202414
@@ -777,145 +678,10 @@
     "id": "img-87",
     "src": "/images/gallery-archive/img-87.webp",
     "title": "ERS SHS Image9",
-    "category": "General",
+    "category": "Education",
     "filename": "img-87.webp",
     "originalName": "ERS_SHS_image9.jpg",
     "size": 105226
-  },
-  {
-    "id": "img-88",
-    "src": "/images/gallery-archive/img-88.webp",
-    "title": "Funfact IMG 2",
-    "category": "General",
-    "filename": "img-88.webp",
-    "originalName": "funfact_img-2.jpeg",
-    "size": 17694
-  },
-  {
-    "id": "img-89",
-    "src": "/images/gallery-archive/img-89.webp",
-    "title": "Heading Full City",
-    "category": "General",
-    "filename": "img-89.webp",
-    "originalName": "heading-full-city.png",
-    "size": 46230
-  },
-  {
-    "id": "img-90",
-    "src": "/images/gallery-archive/img-90.webp",
-    "title": "Image Accordion 14",
-    "category": "General",
-    "filename": "img-90.webp",
-    "originalName": "image-accordion-14.jpg",
-    "size": 34948
-  },
-  {
-    "id": "img-91",
-    "src": "/images/gallery-archive/img-91.webp",
-    "title": "Image Accordion 15",
-    "category": "General",
-    "filename": "img-91.webp",
-    "originalName": "image-accordion-15.jpg",
-    "size": 39444
-  },
-  {
-    "id": "img-92",
-    "src": "/images/gallery-archive/img-92.webp",
-    "title": "Image Accordion 7",
-    "category": "General",
-    "filename": "img-92.webp",
-    "originalName": "image-accordion-7.jpg",
-    "size": 14294
-  },
-  {
-    "id": "img-93",
-    "src": "/images/gallery-archive/img-93.webp",
-    "title": "Image Comparion 10",
-    "category": "General",
-    "filename": "img-93.webp",
-    "originalName": "image_comparion_10.png",
-    "size": 35186
-  },
-  {
-    "id": "img-94",
-    "src": "/images/gallery-archive/img-94.webp",
-    "title": "Image Comparion 13",
-    "category": "General",
-    "filename": "img-94.webp",
-    "originalName": "image_comparion_13.png",
-    "size": 23044
-  },
-  {
-    "id": "img-95",
-    "src": "/images/gallery-archive/img-95.webp",
-    "title": "Image Comparion 14",
-    "category": "General",
-    "filename": "img-95.webp",
-    "originalName": "image_comparion_14.png",
-    "size": 31552
-  },
-  {
-    "id": "img-96",
-    "src": "/images/gallery-archive/img-96.webp",
-    "title": "Image Comparion 7",
-    "category": "General",
-    "filename": "img-96.webp",
-    "originalName": "image_comparion_7.png",
-    "size": 74168
-  },
-  {
-    "id": "img-97",
-    "src": "/images/gallery-archive/img-97.webp",
-    "title": "Image Comparion 8",
-    "category": "General",
-    "filename": "img-97.webp",
-    "originalName": "image_comparion_8.png",
-    "size": 22340
-  },
-  {
-    "id": "img-98",
-    "src": "/images/gallery-archive/img-98.webp",
-    "title": "Image Comparion 9",
-    "category": "General",
-    "filename": "img-98.webp",
-    "originalName": "image_comparion_9.png",
-    "size": 50562
-  },
-  {
-    "id": "img-99",
-    "src": "/images/gallery-archive/img-99.webp",
-    "title": "IMG 19",
-    "category": "General",
-    "filename": "img-99.webp",
-    "originalName": "img-19.jpg",
-    "size": 72730
-  },
-  {
-    "id": "img-100",
-    "src": "/images/gallery-archive/img-100.webp",
-    "title": "IMG 0680",
-    "category": "Field & Construction",
-    "filename": "img-100.webp",
-    "originalName": "IMG_0680.jpg",
-    "size": 81938
-  },
-  {
-    "id": "img-101",
-    "src": "/images/gallery-archive/img-101.webp",
-    "title": "IMG 0707",
-    "category": "Field & Construction",
-    "filename": "img-101.webp",
-    "originalName": "IMG_0707.jpg",
-    "size": 51894
-  },
-  {
-    "id": "img-102",
-    "src": "/images/gallery-archive/img-102.webp",
-    "title": "IMG 0719",
-    "category": "Field & Construction",
-    "filename": "img-102.webp",
-    "originalName": "IMG_0719.jpg",
-    "size": 130778
   },
   {
     "id": "img-103",
@@ -925,51 +691,6 @@
     "filename": "img-103.webp",
     "originalName": "IMG_3471.jpg",
     "size": 95904
-  },
-  {
-    "id": "img-104",
-    "src": "/images/gallery-archive/img-104.webp",
-    "title": "James Gardner",
-    "category": "Education",
-    "filename": "img-104.webp",
-    "originalName": "James-Gardner.jpg",
-    "size": 34976
-  },
-  {
-    "id": "img-105",
-    "src": "/images/gallery-archive/img-105.webp",
-    "title": "Jim Kline",
-    "category": "General",
-    "filename": "img-105.webp",
-    "originalName": "Jim-Kline.jpg",
-    "size": 49424
-  },
-  {
-    "id": "img-106",
-    "src": "/images/gallery-archive/img-106.webp",
-    "title": "Julia Ramos",
-    "category": "General",
-    "filename": "img-106.webp",
-    "originalName": "Julia-Ramos.jpg",
-    "size": 40530
-  },
-  {
-    "id": "img-107",
-    "src": "/images/gallery-archive/img-107.webp",
-    "title": "Lamp",
-    "category": "General",
-    "filename": "img-107.webp",
-    "originalName": "lamp.jpg",
-    "size": 45248
-  },
-  {
-    "id": "img-108",
-    "src": "/images/gallery-archive/img-108.webp",
-    "title": "Lamp3",
-    "category": "General",
-    "filename": "img-108.webp",
-    "originalName": "lamp3.jpg",
-    "size": 10774
   },
   {
     "id": "img-109",
@@ -1008,100 +729,10 @@
     "size": 217832
   },
   {
-    "id": "img-113",
-    "src": "/images/gallery-archive/img-113.webp",
-    "title": "Location 1",
-    "category": "General",
-    "filename": "img-113.webp",
-    "originalName": "location-1.webp",
-    "size": 40250
-  },
-  {
-    "id": "img-114",
-    "src": "/images/gallery-archive/img-114.webp",
-    "title": "Location 2",
-    "category": "General",
-    "filename": "img-114.webp",
-    "originalName": "location-2.webp",
-    "size": 33898
-  },
-  {
-    "id": "img-115",
-    "src": "/images/gallery-archive/img-115.webp",
-    "title": "Man2",
-    "category": "General",
-    "filename": "img-115.webp",
-    "originalName": "man2.jpg",
-    "size": 67026
-  },
-  {
-    "id": "img-116",
-    "src": "/images/gallery-archive/img-116.webp",
-    "title": "Our Skills IMG",
-    "category": "General",
-    "filename": "img-116.webp",
-    "originalName": "Our-skills_img.jpeg",
-    "size": 30126
-  },
-  {
-    "id": "img-117",
-    "src": "/images/gallery-archive/img-117.webp",
-    "title": "P23",
-    "category": "General",
-    "filename": "img-117.webp",
-    "originalName": "p23.jpg",
-    "size": 66858
-  },
-  {
-    "id": "img-118",
-    "src": "/images/gallery-archive/img-118.webp",
-    "title": "People Say IMG",
-    "category": "General",
-    "filename": "img-118.webp",
-    "originalName": "People-say_img.jpeg",
-    "size": 63244
-  },
-  {
-    "id": "img-119",
-    "src": "/images/gallery-archive/img-119.webp",
-    "title": "Photography 1",
-    "category": "General",
-    "filename": "img-119.webp",
-    "originalName": "photography_1.jpg",
-    "size": 132110
-  },
-  {
-    "id": "img-120",
-    "src": "/images/gallery-archive/img-120.webp",
-    "title": "Photography 2",
-    "category": "General",
-    "filename": "img-120.webp",
-    "originalName": "photography_2.jpg",
-    "size": 90374
-  },
-  {
-    "id": "img-121",
-    "src": "/images/gallery-archive/img-121.webp",
-    "title": "Photography 3",
-    "category": "General",
-    "filename": "img-121.webp",
-    "originalName": "photography_3.jpg",
-    "size": 60330
-  },
-  {
-    "id": "img-122",
-    "src": "/images/gallery-archive/img-122.webp",
-    "title": "Photography 4",
-    "category": "General",
-    "filename": "img-122.webp",
-    "originalName": "photography_4.jpg",
-    "size": 93544
-  },
-  {
     "id": "img-123",
     "src": "/images/gallery-archive/img-123.webp",
     "title": "Picture4",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-123.webp",
     "originalName": "Picture4.jpg",
     "size": 15922
@@ -1123,195 +754,6 @@
     "filename": "img-125.webp",
     "originalName": "racc-miller-theater.jpg",
     "size": 25698
-  },
-  {
-    "id": "img-126",
-    "src": "/images/gallery-archive/img-126.webp",
-    "title": "Restaurant 3",
-    "category": "Commercial",
-    "filename": "img-126.webp",
-    "originalName": "restaurant_3.jpg",
-    "size": 239738
-  },
-  {
-    "id": "img-127",
-    "src": "/images/gallery-archive/img-127.webp",
-    "title": "Restaurant 5",
-    "category": "Commercial",
-    "filename": "img-127.webp",
-    "originalName": "restaurant_5.jpg",
-    "size": 75456
-  },
-  {
-    "id": "img-128",
-    "src": "/images/gallery-archive/img-128.webp",
-    "title": "Restaurant 6",
-    "category": "Commercial",
-    "filename": "img-128.webp",
-    "originalName": "restaurant_6.jpg",
-    "size": 100734
-  },
-  {
-    "id": "img-129",
-    "src": "/images/gallery-archive/img-129.webp",
-    "title": "Restaurant 7",
-    "category": "Commercial",
-    "filename": "img-129.webp",
-    "originalName": "restaurant_7.jpg",
-    "size": 52418
-  },
-  {
-    "id": "img-130",
-    "src": "/images/gallery-archive/img-130.webp",
-    "title": "Schedule IMG",
-    "category": "General",
-    "filename": "img-130.webp",
-    "originalName": "Schedule_img.jpeg",
-    "size": 59308
-  },
-  {
-    "id": "img-131",
-    "src": "/images/gallery-archive/img-131.webp",
-    "title": "Shoe Scaled 1",
-    "category": "General",
-    "filename": "img-131.webp",
-    "originalName": "shoe-scaled-1.jpg",
-    "size": 18480
-  },
-  {
-    "id": "img-132",
-    "src": "/images/gallery-archive/img-132.webp",
-    "title": "Slider IMG 1 1 1",
-    "category": "General",
-    "filename": "img-132.webp",
-    "originalName": "Slider_img-1-1-1.jpeg",
-    "size": 19158
-  },
-  {
-    "id": "img-133",
-    "src": "/images/gallery-archive/img-133.webp",
-    "title": "Slider IMG 1 1",
-    "category": "General",
-    "filename": "img-133.webp",
-    "originalName": "Slider_img-1-1.jpeg",
-    "size": 19158
-  },
-  {
-    "id": "img-134",
-    "src": "/images/gallery-archive/img-134.webp",
-    "title": "Slider IMG 1 3",
-    "category": "General",
-    "filename": "img-134.webp",
-    "originalName": "slider_img-1-3.jpeg",
-    "size": 39390
-  },
-  {
-    "id": "img-135",
-    "src": "/images/gallery-archive/img-135.webp",
-    "title": "Slider IMG 4",
-    "category": "General",
-    "filename": "img-135.webp",
-    "originalName": "slider_img-4.jpeg",
-    "size": 35654
-  },
-  {
-    "id": "img-136",
-    "src": "/images/gallery-archive/img-136.webp",
-    "title": "Slider IMG 5",
-    "category": "General",
-    "filename": "img-136.webp",
-    "originalName": "Slider_img-5.jpeg",
-    "size": 51974
-  },
-  {
-    "id": "img-137",
-    "src": "/images/gallery-archive/img-137.webp",
-    "title": "Steve Sostak",
-    "category": "General",
-    "filename": "img-137.webp",
-    "originalName": "Steve-Sostak.jpg",
-    "size": 57948
-  },
-  {
-    "id": "img-138",
-    "src": "/images/gallery-archive/img-138.webp",
-    "title": "Stubner 92",
-    "category": "General",
-    "filename": "img-138.webp",
-    "originalName": "Stubner-92.jpg",
-    "size": 75222
-  },
-  {
-    "id": "img-139",
-    "src": "/images/gallery-archive/img-139.webp",
-    "title": "St About Accordian",
-    "category": "General",
-    "filename": "img-139.webp",
-    "originalName": "st_about_accordian.jpg",
-    "size": 26916
-  },
-  {
-    "id": "img-140",
-    "src": "/images/gallery-archive/img-140.webp",
-    "title": "Team 1",
-    "category": "Field & Construction",
-    "filename": "img-140.webp",
-    "originalName": "team_1.jpg",
-    "size": 13752
-  },
-  {
-    "id": "img-141",
-    "src": "/images/gallery-archive/img-141.webp",
-    "title": "Team 5",
-    "category": "Field & Construction",
-    "filename": "img-141.webp",
-    "originalName": "team_5.jpg",
-    "size": 29466
-  },
-  {
-    "id": "img-142",
-    "src": "/images/gallery-archive/img-142.webp",
-    "title": "Team 6",
-    "category": "Field & Construction",
-    "filename": "img-142.webp",
-    "originalName": "team_6.jpg",
-    "size": 18926
-  },
-  {
-    "id": "img-143",
-    "src": "/images/gallery-archive/img-143.webp",
-    "title": "Travel 1",
-    "category": "General",
-    "filename": "img-143.webp",
-    "originalName": "travel_1.jpg",
-    "size": 255674
-  },
-  {
-    "id": "img-144",
-    "src": "/images/gallery-archive/img-144.webp",
-    "title": "Travel 2",
-    "category": "General",
-    "filename": "img-144.webp",
-    "originalName": "travel_2.jpg",
-    "size": 246066
-  },
-  {
-    "id": "img-145",
-    "src": "/images/gallery-archive/img-145.webp",
-    "title": "Travel 3",
-    "category": "General",
-    "filename": "img-145.webp",
-    "originalName": "travel_3.jpg",
-    "size": 52742
-  },
-  {
-    "id": "img-146",
-    "src": "/images/gallery-archive/img-146.webp",
-    "title": "Travel 4",
-    "category": "General",
-    "filename": "img-146.webp",
-    "originalName": "travel_4.jpg",
-    "size": 165526
   },
   {
     "id": "img-147",
@@ -1485,109 +927,10 @@
     "size": 48488
   },
   {
-    "id": "img-166",
-    "src": "/images/gallery-archive/img-166.webp",
-    "title": "117862",
-    "category": "General",
-    "filename": "img-166.webp",
-    "originalName": "117862.jpg",
-    "size": 50656
-  },
-  {
-    "id": "img-167",
-    "src": "/images/gallery-archive/img-167.webp",
-    "title": "156",
-    "category": "General",
-    "filename": "img-167.webp",
-    "originalName": "156.jpg",
-    "size": 41582
-  },
-  {
-    "id": "img-168",
-    "src": "/images/gallery-archive/img-168.webp",
-    "title": "165",
-    "category": "General",
-    "filename": "img-168.webp",
-    "originalName": "165.jpg",
-    "size": 43250
-  },
-  {
-    "id": "img-169",
-    "src": "/images/gallery-archive/img-169.webp",
-    "title": "2149124266",
-    "category": "General",
-    "filename": "img-169.webp",
-    "originalName": "2149124266.jpg",
-    "size": 53438
-  },
-  {
-    "id": "img-170",
-    "src": "/images/gallery-archive/img-170.webp",
-    "title": "3d House",
-    "category": "General",
-    "filename": "img-170.webp",
-    "originalName": "3d-house.png",
-    "size": 8732
-  },
-  {
-    "id": "img-171",
-    "src": "/images/gallery-archive/img-171.webp",
-    "title": "About IMG 3",
-    "category": "General",
-    "filename": "img-171.webp",
-    "originalName": "About_img-3.jpeg",
-    "size": 17506
-  },
-  {
-    "id": "img-172",
-    "src": "/images/gallery-archive/img-172.webp",
-    "title": "Bg1",
-    "category": "General",
-    "filename": "img-172.webp",
-    "originalName": "bg1.jpg",
-    "size": 12610
-  },
-  {
-    "id": "img-173",
-    "src": "/images/gallery-archive/img-173.webp",
-    "title": "Call To Action21",
-    "category": "General",
-    "filename": "img-173.webp",
-    "originalName": "call_to_action21.jpg",
-    "size": 24216
-  },
-  {
-    "id": "img-174",
-    "src": "/images/gallery-archive/img-174.webp",
-    "title": "Cargo",
-    "category": "General",
-    "filename": "img-174.webp",
-    "originalName": "cargo.png",
-    "size": 4288
-  },
-  {
-    "id": "img-175",
-    "src": "/images/gallery-archive/img-175.webp",
-    "title": "Contact Banner 1",
-    "category": "General",
-    "filename": "img-175.webp",
-    "originalName": "contact-banner-1.jpg",
-    "size": 163750
-  },
-  {
-    "id": "img-176",
-    "src": "/images/gallery-archive/img-176.webp",
-    "title": "Doug George",
-    "category": "General",
-    "filename": "img-176.webp",
-    "originalName": "Doug-George.png",
-    "size": 20746
-  },
-  {
     "id": "img-177",
     "src": "/images/gallery-archive/img-177.webp",
     "title": "Dusk North Facade B 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-177.webp",
     "originalName": "Dusk-North-Facade-b-1.jpg",
     "size": 61986
@@ -1596,7 +939,7 @@
     "id": "img-178",
     "src": "/images/gallery-archive/img-178.webp",
     "title": "Ext 4 A 1 Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-178.webp",
     "originalName": "Ext-4-a-1-scaled.jpg",
     "size": 64180
@@ -1605,136 +948,10 @@
     "id": "img-179",
     "src": "/images/gallery-archive/img-179.webp",
     "title": "Ext 4 A 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-179.webp",
     "originalName": "Ext-4-a-1.jpg",
     "size": 66254
-  },
-  {
-    "id": "img-180",
-    "src": "/images/gallery-archive/img-180.webp",
-    "title": "Funfact IMG 1",
-    "category": "General",
-    "filename": "img-180.webp",
-    "originalName": "Funfact_img-1.jpeg",
-    "size": 9286
-  },
-  {
-    "id": "img-181",
-    "src": "/images/gallery-archive/img-181.webp",
-    "title": "Image Accordion 10",
-    "category": "General",
-    "filename": "img-181.webp",
-    "originalName": "image-accordion-10.jpg",
-    "size": 56328
-  },
-  {
-    "id": "img-182",
-    "src": "/images/gallery-archive/img-182.webp",
-    "title": "Image Accordion 12",
-    "category": "General",
-    "filename": "img-182.webp",
-    "originalName": "image-accordion-12.jpg",
-    "size": 16346
-  },
-  {
-    "id": "img-183",
-    "src": "/images/gallery-archive/img-183.webp",
-    "title": "Image Accordion 4",
-    "category": "General",
-    "filename": "img-183.webp",
-    "originalName": "image-accordion-4.jpg",
-    "size": 18778
-  },
-  {
-    "id": "img-184",
-    "src": "/images/gallery-archive/img-184.webp",
-    "title": "Image Accordion 8",
-    "category": "General",
-    "filename": "img-184.webp",
-    "originalName": "image-accordion-8.jpg",
-    "size": 32106
-  },
-  {
-    "id": "img-185",
-    "src": "/images/gallery-archive/img-185.webp",
-    "title": "Image Accordion 9",
-    "category": "General",
-    "filename": "img-185.webp",
-    "originalName": "image-accordion-9.jpg",
-    "size": 25568
-  },
-  {
-    "id": "img-186",
-    "src": "/images/gallery-archive/img-186.webp",
-    "title": "Image Comparion 15",
-    "category": "General",
-    "filename": "img-186.webp",
-    "originalName": "image_comparion_15.png",
-    "size": 12086
-  },
-  {
-    "id": "img-187",
-    "src": "/images/gallery-archive/img-187.webp",
-    "title": "Image Comparion 16",
-    "category": "General",
-    "filename": "img-187.webp",
-    "originalName": "image_comparion_16.png",
-    "size": 8764
-  },
-  {
-    "id": "img-188",
-    "src": "/images/gallery-archive/img-188.webp",
-    "title": "Investor",
-    "category": "General",
-    "filename": "img-188.webp",
-    "originalName": "investor.png",
-    "size": 14090
-  },
-  {
-    "id": "img-189",
-    "src": "/images/gallery-archive/img-189.webp",
-    "title": "James Gardner",
-    "category": "Education",
-    "filename": "img-189.webp",
-    "originalName": "James-Gardner.png",
-    "size": 20078
-  },
-  {
-    "id": "img-190",
-    "src": "/images/gallery-archive/img-190.webp",
-    "title": "Jim Kline",
-    "category": "General",
-    "filename": "img-190.webp",
-    "originalName": "Jim-Kline.png",
-    "size": 26658
-  },
-  {
-    "id": "img-191",
-    "src": "/images/gallery-archive/img-191.webp",
-    "title": "Julia Ramos",
-    "category": "General",
-    "filename": "img-191.webp",
-    "originalName": "Julia-Ramos.png",
-    "size": 22420
-  },
-  {
-    "id": "img-192",
-    "src": "/images/gallery-archive/img-192.webp",
-    "title": "Line",
-    "category": "General",
-    "filename": "img-192.webp",
-    "originalName": "line.png",
-    "size": 31456
-  },
-  {
-    "id": "img-193",
-    "src": "/images/gallery-archive/img-193.webp",
-    "title": "Mansion",
-    "category": "General",
-    "filename": "img-193.webp",
-    "originalName": "mansion.png",
-    "size": 11162
   },
   {
     "id": "img-194",
@@ -1764,109 +981,10 @@
     "size": 75042
   },
   {
-    "id": "img-197",
-    "src": "/images/gallery-archive/img-197.webp",
-    "title": "Office Building",
-    "category": "Field & Construction",
-    "filename": "img-197.webp",
-    "originalName": "office-building.png",
-    "size": 10942
-  },
-  {
-    "id": "img-198",
-    "src": "/images/gallery-archive/img-198.webp",
-    "title": "Ready To Contact 1",
-    "category": "General",
-    "filename": "img-198.webp",
-    "originalName": "ready-to-contact-1.jpg",
-    "size": 125112
-  },
-  {
-    "id": "img-199",
-    "src": "/images/gallery-archive/img-199.webp",
-    "title": "Searching",
-    "category": "General",
-    "filename": "img-199.webp",
-    "originalName": "searching.png",
-    "size": 16902
-  },
-  {
-    "id": "img-200",
-    "src": "/images/gallery-archive/img-200.webp",
-    "title": "Shape Lottie Animation 01",
-    "category": "General",
-    "filename": "img-200.webp",
-    "originalName": "shape_lottie_animation_01.png",
-    "size": 14124
-  },
-  {
-    "id": "img-201",
-    "src": "/images/gallery-archive/img-201.webp",
-    "title": "Smart City",
-    "category": "General",
-    "filename": "img-201.webp",
-    "originalName": "smart-city.png",
-    "size": 10116
-  },
-  {
-    "id": "img-202",
-    "src": "/images/gallery-archive/img-202.webp",
-    "title": "Steve Sostak",
-    "category": "General",
-    "filename": "img-202.webp",
-    "originalName": "Steve-Sostak.png",
-    "size": 30588
-  },
-  {
-    "id": "img-203",
-    "src": "/images/gallery-archive/img-203.webp",
-    "title": "Success Story IMG",
-    "category": "General",
-    "filename": "img-203.webp",
-    "originalName": "Success-story_img.jpeg",
-    "size": 13002
-  },
-  {
-    "id": "img-204",
-    "src": "/images/gallery-archive/img-204.webp",
-    "title": "Team 2",
-    "category": "Field & Construction",
-    "filename": "img-204.webp",
-    "originalName": "team_2.jpg",
-    "size": 20102
-  },
-  {
-    "id": "img-205",
-    "src": "/images/gallery-archive/img-205.webp",
-    "title": "Team 3",
-    "category": "Field & Construction",
-    "filename": "img-205.webp",
-    "originalName": "team_3.jpg",
-    "size": 17480
-  },
-  {
-    "id": "img-206",
-    "src": "/images/gallery-archive/img-206.webp",
-    "title": "Violation",
-    "category": "General",
-    "filename": "img-206.webp",
-    "originalName": "violation.png",
-    "size": 9990
-  },
-  {
-    "id": "img-207",
-    "src": "/images/gallery-archive/img-207.webp",
-    "title": "Worker",
-    "category": "General",
-    "filename": "img-207.webp",
-    "originalName": "worker.png",
-    "size": 12214
-  },
-  {
     "id": "img-208",
     "src": "/images/gallery-archive/img-208.webp",
     "title": "1750181771228 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-208.webp",
     "originalName": "1750181771228-1.webp",
     "size": 19360
@@ -1875,7 +993,7 @@
     "id": "img-209",
     "src": "/images/gallery-archive/img-209.webp",
     "title": "1750181771228",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-209.webp",
     "originalName": "1750181771228.webp",
     "size": 30088
@@ -1884,70 +1002,25 @@
     "id": "img-210",
     "src": "/images/gallery-archive/img-210.webp",
     "title": "1750181771237",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-210.webp",
     "originalName": "1750181771237.webp",
     "size": 29792
   },
   {
-    "id": "img-211",
-    "src": "/images/gallery-archive/img-211.webp",
-    "title": "191  60ehkGI8Hk",
-    "category": "General",
-    "filename": "img-211.webp",
-    "originalName": "191-_60ehkGI8Hk.jpeg",
-    "size": 32850
-  },
-  {
-    "id": "img-212",
-    "src": "/images/gallery-archive/img-212.webp",
-    "title": "360photoconverter Scaled",
-    "category": "General",
-    "filename": "img-212.webp",
-    "originalName": "360photoconverter-scaled.jpg",
-    "size": 113230
-  },
-  {
-    "id": "img-213",
-    "src": "/images/gallery-archive/img-213.webp",
-    "title": "360photoconverter",
-    "category": "General",
-    "filename": "img-213.webp",
-    "originalName": "360photoconverter.jpg",
-    "size": 116814
-  },
-  {
-    "id": "img-214",
-    "src": "/images/gallery-archive/img-214.webp",
-    "title": "A 1 Scaled",
-    "category": "General",
-    "filename": "img-214.webp",
-    "originalName": "a-1-scaled.jpg",
-    "size": 126142
-  },
-  {
     "id": "img-215",
     "src": "/images/gallery-archive/img-215.webp",
     "title": "A 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-215.webp",
     "originalName": "a-1.jpg",
     "size": 129642
   },
   {
-    "id": "img-216",
-    "src": "/images/gallery-archive/img-216.webp",
-    "title": "A",
-    "category": "General",
-    "filename": "img-216.webp",
-    "originalName": "a.jpg",
-    "size": 13750
-  },
-  {
     "id": "img-217",
     "src": "/images/gallery-archive/img-217.webp",
     "title": "Aquaponics 03",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-217.webp",
     "originalName": "Aquaponics-03.webp",
     "size": 79114
@@ -1956,7 +1029,7 @@
     "id": "img-218",
     "src": "/images/gallery-archive/img-218.webp",
     "title": "Aquaponics 06 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-218.webp",
     "originalName": "Aquaponics-06-1.webp",
     "size": 44788
@@ -1965,7 +1038,7 @@
     "id": "img-219",
     "src": "/images/gallery-archive/img-219.webp",
     "title": "Aquaponics 06",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-219.webp",
     "originalName": "Aquaponics-06.webp",
     "size": 44788
@@ -1974,7 +1047,7 @@
     "id": "img-220",
     "src": "/images/gallery-archive/img-220.webp",
     "title": "Aquaponics 07",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-220.webp",
     "originalName": "Aquaponics-07.webp",
     "size": 52904
@@ -1983,7 +1056,7 @@
     "id": "img-221",
     "src": "/images/gallery-archive/img-221.webp",
     "title": "Aquaponics 10 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-221.webp",
     "originalName": "Aquaponics-10-1.webp",
     "size": 68686
@@ -1992,7 +1065,7 @@
     "id": "img-222",
     "src": "/images/gallery-archive/img-222.webp",
     "title": "Aquaponics 10",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-222.webp",
     "originalName": "Aquaponics-10.webp",
     "size": 143042
@@ -2001,19 +1074,10 @@
     "id": "img-223",
     "src": "/images/gallery-archive/img-223.webp",
     "title": "Aquaponics 11",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-223.webp",
     "originalName": "Aquaponics-11.webp",
     "size": 22548
-  },
-  {
-    "id": "img-224",
-    "src": "/images/gallery-archive/img-224.webp",
-    "title": "Bh",
-    "category": "General",
-    "filename": "img-224.webp",
-    "originalName": "bh.jpg",
-    "size": 15240
   },
   {
     "id": "img-225",
@@ -2091,7 +1155,7 @@
     "id": "img-233",
     "src": "/images/gallery-archive/img-233.webp",
     "title": "C6D99ACD 49E8 4177 8FBA EBA1F191 1024x768 1 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-233.webp",
     "originalName": "C6D99ACD-49E8-4177-8FBA-EBA1F191-1024x768-1-1.webp",
     "size": 32736
@@ -2100,7 +1164,7 @@
     "id": "img-234",
     "src": "/images/gallery-archive/img-234.webp",
     "title": "C6D99ACD 49E8 4177 8FBA EBA1F191 1024x768 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-234.webp",
     "originalName": "C6D99ACD-49E8-4177-8FBA-EBA1F191-1024x768-1.webp",
     "size": 111556
@@ -2109,7 +1173,7 @@
     "id": "img-235",
     "src": "/images/gallery-archive/img-235.webp",
     "title": "CE74DD13 523A 407A A27C 2D91F42A 1024x768 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-235.webp",
     "originalName": "CE74DD13-523A-407A-A27C-2D91F42A-1024x768-1.webp",
     "size": 37252
@@ -2118,7 +1182,7 @@
     "id": "img-236",
     "src": "/images/gallery-archive/img-236.webp",
     "title": "Cv",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-236.webp",
     "originalName": "cv.jpg",
     "size": 37464
@@ -2127,7 +1191,7 @@
     "id": "img-237",
     "src": "/images/gallery-archive/img-237.webp",
     "title": "DCIU1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-237.webp",
     "originalName": "DCIU1.webp",
     "size": 38720
@@ -2136,7 +1200,7 @@
     "id": "img-238",
     "src": "/images/gallery-archive/img-238.webp",
     "title": "DCIU2",
-    "category": "General",
+    "category": "Education",
     "filename": "img-238.webp",
     "originalName": "DCIU2.webp",
     "size": 41460
@@ -2145,7 +1209,7 @@
     "id": "img-239",
     "src": "/images/gallery-archive/img-239.webp",
     "title": "DCIU3 1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-239.webp",
     "originalName": "DCIU3-1.webp",
     "size": 30152
@@ -2154,7 +1218,7 @@
     "id": "img-240",
     "src": "/images/gallery-archive/img-240.webp",
     "title": "DCIU3",
-    "category": "General",
+    "category": "Education",
     "filename": "img-240.webp",
     "originalName": "DCIU3.webp",
     "size": 50642
@@ -2163,7 +1227,7 @@
     "id": "img-241",
     "src": "/images/gallery-archive/img-241.webp",
     "title": "Ds",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-241.webp",
     "originalName": "ds.jpg",
     "size": 38546
@@ -2172,7 +1236,7 @@
     "id": "img-242",
     "src": "/images/gallery-archive/img-242.webp",
     "title": "E2D81DEF 9AD8 4EDD 8DC0 307FBBB8 1024x768 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-242.webp",
     "originalName": "E2D81DEF-9AD8-4EDD-8DC0-307FBBB8-1024x768-1.webp",
     "size": 40864
@@ -2181,7 +1245,7 @@
     "id": "img-243",
     "src": "/images/gallery-archive/img-243.webp",
     "title": "ERS SHS Image1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-243.webp",
     "originalName": "ERS_SHS_image1.webp",
     "size": 79030
@@ -2190,7 +1254,7 @@
     "id": "img-244",
     "src": "/images/gallery-archive/img-244.webp",
     "title": "ERS SHS Image10 1024x768 1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-244.webp",
     "originalName": "ERS_SHS_image10-1024x768-1.webp",
     "size": 34444
@@ -2199,7 +1263,7 @@
     "id": "img-245",
     "src": "/images/gallery-archive/img-245.webp",
     "title": "ERS SHS Image3 1536x864 1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-245.webp",
     "originalName": "ERS_SHS_image3-1536x864-1.webp",
     "size": 41666
@@ -2208,7 +1272,7 @@
     "id": "img-246",
     "src": "/images/gallery-archive/img-246.webp",
     "title": "ERS SHS Image5 1536x864 1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-246.webp",
     "originalName": "ERS_SHS_image5-1536x864-1.webp",
     "size": 41314
@@ -2217,7 +1281,7 @@
     "id": "img-247",
     "src": "/images/gallery-archive/img-247.webp",
     "title": "ERS SHS Image 4 1 1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-247.webp",
     "originalName": "ERS_SHS_image_4-1-1.webp",
     "size": 97250
@@ -2226,7 +1290,7 @@
     "id": "img-248",
     "src": "/images/gallery-archive/img-248.webp",
     "title": "ERS SHS Image 4 1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-248.webp",
     "originalName": "ERS_SHS_image_4-1.webp",
     "size": 97250
@@ -2235,7 +1299,7 @@
     "id": "img-249",
     "src": "/images/gallery-archive/img-249.webp",
     "title": "ERS SHS Image 4",
-    "category": "General",
+    "category": "Education",
     "filename": "img-249.webp",
     "originalName": "ERS_SHS_image_4.webp",
     "size": 97250
@@ -2244,7 +1308,7 @@
     "id": "img-250",
     "src": "/images/gallery-archive/img-250.webp",
     "title": "Historic Cloister Passage",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-250.webp",
     "originalName": "historic_cloister_passage.webp",
     "size": 41852
@@ -2253,7 +1317,7 @@
     "id": "img-251",
     "src": "/images/gallery-archive/img-251.webp",
     "title": "Hj",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-251.webp",
     "originalName": "hj.jpg",
     "size": 26260
@@ -2410,168 +1474,6 @@
     "filename": "img-268.webp",
     "originalName": "IMG_0403.webp",
     "size": 95550
-  },
-  {
-    "id": "img-269",
-    "src": "/images/gallery-archive/img-269.webp",
-    "title": "IMG 20260519 151009498 HDR AE Scaled",
-    "category": "Field & Construction",
-    "filename": "img-269.webp",
-    "originalName": "IMG_20260519_151009498_HDR_AE-scaled.jpg",
-    "size": 75056
-  },
-  {
-    "id": "img-270",
-    "src": "/images/gallery-archive/img-270.webp",
-    "title": "IMG 20260519 151009498 HDR AE",
-    "category": "Field & Construction",
-    "filename": "img-270.webp",
-    "originalName": "IMG_20260519_151009498_HDR_AE.jpg",
-    "size": 77780
-  },
-  {
-    "id": "img-271",
-    "src": "/images/gallery-archive/img-271.webp",
-    "title": "IMG 20260519 170608375 HDR AE Scaled",
-    "category": "Field & Construction",
-    "filename": "img-271.webp",
-    "originalName": "IMG_20260519_170608375_HDR_AE-scaled.jpg",
-    "size": 178452
-  },
-  {
-    "id": "img-272",
-    "src": "/images/gallery-archive/img-272.webp",
-    "title": "IMG 20260519 170608375 HDR AE",
-    "category": "Field & Construction",
-    "filename": "img-272.webp",
-    "originalName": "IMG_20260519_170608375_HDR_AE.jpg",
-    "size": 182266
-  },
-  {
-    "id": "img-273",
-    "src": "/images/gallery-archive/img-273.webp",
-    "title": "IMG 20260520 150245049 HDR AE Scaled",
-    "category": "Field & Construction",
-    "filename": "img-273.webp",
-    "originalName": "IMG_20260520_150245049_HDR_AE-scaled.jpg",
-    "size": 77202
-  },
-  {
-    "id": "img-274",
-    "src": "/images/gallery-archive/img-274.webp",
-    "title": "IMG 20260520 150245049 HDR AE",
-    "category": "Field & Construction",
-    "filename": "img-274.webp",
-    "originalName": "IMG_20260520_150245049_HDR_AE.jpg",
-    "size": 79522
-  },
-  {
-    "id": "img-275",
-    "src": "/images/gallery-archive/img-275.webp",
-    "title": "IMG 20260520 150831755 AE Scaled",
-    "category": "Field & Construction",
-    "filename": "img-275.webp",
-    "originalName": "IMG_20260520_150831755_AE-scaled.jpg",
-    "size": 76468
-  },
-  {
-    "id": "img-276",
-    "src": "/images/gallery-archive/img-276.webp",
-    "title": "IMG 20260520 150831755 AE",
-    "category": "Field & Construction",
-    "filename": "img-276.webp",
-    "originalName": "IMG_20260520_150831755_AE.jpg",
-    "size": 78534
-  },
-  {
-    "id": "img-277",
-    "src": "/images/gallery-archive/img-277.webp",
-    "title": "IMG 20260520 150833043 HDR Scaled",
-    "category": "Field & Construction",
-    "filename": "img-277.webp",
-    "originalName": "IMG_20260520_150833043_HDR-scaled.jpg",
-    "size": 108308
-  },
-  {
-    "id": "img-278",
-    "src": "/images/gallery-archive/img-278.webp",
-    "title": "IMG 20260520 150833043 HDR",
-    "category": "Field & Construction",
-    "filename": "img-278.webp",
-    "originalName": "IMG_20260520_150833043_HDR.jpg",
-    "size": 112376
-  },
-  {
-    "id": "img-279",
-    "src": "/images/gallery-archive/img-279.webp",
-    "title": "IMG 20260520 152006988 HDR AE Scaled",
-    "category": "Field & Construction",
-    "filename": "img-279.webp",
-    "originalName": "IMG_20260520_152006988_HDR_AE-scaled.jpg",
-    "size": 142292
-  },
-  {
-    "id": "img-280",
-    "src": "/images/gallery-archive/img-280.webp",
-    "title": "IMG 20260520 152006988 HDR AE",
-    "category": "Field & Construction",
-    "filename": "img-280.webp",
-    "originalName": "IMG_20260520_152006988_HDR_AE.jpg",
-    "size": 146778
-  },
-  {
-    "id": "img-281",
-    "src": "/images/gallery-archive/img-281.webp",
-    "title": "IMG 20260604 133342421 HDR Scaled",
-    "category": "Field & Construction",
-    "filename": "img-281.webp",
-    "originalName": "IMG_20260604_133342421_HDR-scaled.jpg",
-    "size": 87570
-  },
-  {
-    "id": "img-282",
-    "src": "/images/gallery-archive/img-282.webp",
-    "title": "IMG 20260604 133342421 HDR",
-    "category": "Field & Construction",
-    "filename": "img-282.webp",
-    "originalName": "IMG_20260604_133342421_HDR.jpg",
-    "size": 89710
-  },
-  {
-    "id": "img-283",
-    "src": "/images/gallery-archive/img-283.webp",
-    "title": "IMG 20260604 133410576 HDR Scaled",
-    "category": "Field & Construction",
-    "filename": "img-283.webp",
-    "originalName": "IMG_20260604_133410576_HDR-scaled.jpg",
-    "size": 91404
-  },
-  {
-    "id": "img-284",
-    "src": "/images/gallery-archive/img-284.webp",
-    "title": "IMG 20260604 133410576 HDR",
-    "category": "Field & Construction",
-    "filename": "img-284.webp",
-    "originalName": "IMG_20260604_133410576_HDR.jpg",
-    "size": 93596
-  },
-  {
-    "id": "img-285",
-    "src": "/images/gallery-archive/img-285.webp",
-    "title": "IMG 20260604 133504941 HDR AE Scaled",
-    "category": "Field & Construction",
-    "filename": "img-285.webp",
-    "originalName": "IMG_20260604_133504941_HDR_AE-scaled.jpg",
-    "size": 81460
-  },
-  {
-    "id": "img-286",
-    "src": "/images/gallery-archive/img-286.webp",
-    "title": "IMG 20260604 133504941 HDR AE",
-    "category": "Field & Construction",
-    "filename": "img-286.webp",
-    "originalName": "IMG_20260604_133504941_HDR_AE.jpg",
-    "size": 82924
   },
   {
     "id": "img-287",
@@ -2934,15 +1836,6 @@
     "size": 103104
   },
   {
-    "id": "img-327",
-    "src": "/images/gallery-archive/img-327.webp",
-    "title": "Julia Ramos Img2",
-    "category": "General",
-    "filename": "img-327.webp",
-    "originalName": "Julia-Ramos_img2.png",
-    "size": 23228
-  },
-  {
     "id": "img-328",
     "src": "/images/gallery-archive/img-328.webp",
     "title": "Limerick Municipal 2",
@@ -3027,7 +1920,7 @@
     "id": "img-337",
     "src": "/images/gallery-archive/img-337.webp",
     "title": "M",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-337.webp",
     "originalName": "m.jpg",
     "size": 44104
@@ -3099,7 +1992,7 @@
     "id": "img-345",
     "src": "/images/gallery-archive/img-345.webp",
     "title": "Picture6 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-345.webp",
     "originalName": "Picture6-1.webp",
     "size": 28932
@@ -3108,7 +2001,7 @@
     "id": "img-346",
     "src": "/images/gallery-archive/img-346.webp",
     "title": "Picture6 2",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-346.webp",
     "originalName": "Picture6-2.webp",
     "size": 28932
@@ -3117,100 +2010,10 @@
     "id": "img-347",
     "src": "/images/gallery-archive/img-347.webp",
     "title": "Picture6",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-347.webp",
     "originalName": "Picture6.webp",
     "size": 28932
-  },
-  {
-    "id": "img-348",
-    "src": "/images/gallery-archive/img-348.webp",
-    "title": "Recipt Scaled",
-    "category": "General",
-    "filename": "img-348.webp",
-    "originalName": "recipt-scaled.jpg",
-    "size": 11928
-  },
-  {
-    "id": "img-349",
-    "src": "/images/gallery-archive/img-349.webp",
-    "title": "Recipt",
-    "category": "General",
-    "filename": "img-349.webp",
-    "originalName": "recipt.jpg",
-    "size": 11910
-  },
-  {
-    "id": "img-350",
-    "src": "/images/gallery-archive/img-350.webp",
-    "title": "Shared Image1",
-    "category": "General",
-    "filename": "img-350.webp",
-    "originalName": "shared-image1.webp",
-    "size": 29356
-  },
-  {
-    "id": "img-351",
-    "src": "/images/gallery-archive/img-351.webp",
-    "title": "Steve Sostak",
-    "category": "General",
-    "filename": "img-351.webp",
-    "originalName": "Steve-Sostak.png",
-    "size": 30588
-  },
-  {
-    "id": "img-352",
-    "src": "/images/gallery-archive/img-352.webp",
-    "title": "TFA",
-    "category": "General",
-    "filename": "img-352.webp",
-    "originalName": "TFA.webp",
-    "size": 66948
-  },
-  {
-    "id": "img-353",
-    "src": "/images/gallery-archive/img-353.webp",
-    "title": "The Scaled",
-    "category": "General",
-    "filename": "img-353.webp",
-    "originalName": "the-scaled.jpeg",
-    "size": 150538
-  },
-  {
-    "id": "img-354",
-    "src": "/images/gallery-archive/img-354.webp",
-    "title": "The",
-    "category": "General",
-    "filename": "img-354.webp",
-    "originalName": "the.jpeg",
-    "size": 154374
-  },
-  {
-    "id": "img-355",
-    "src": "/images/gallery-archive/img-355.webp",
-    "title": "Untitled 1 1",
-    "category": "General",
-    "filename": "img-355.webp",
-    "originalName": "Untitled-1-1.jpg",
-    "size": 13046
-  },
-  {
-    "id": "img-356",
-    "src": "/images/gallery-archive/img-356.webp",
-    "title": "Untitled 1",
-    "category": "General",
-    "filename": "img-356.webp",
-    "originalName": "Untitled-1.jpg",
-    "size": 20286
-  },
-  {
-    "id": "img-357",
-    "src": "/images/gallery-archive/img-357.webp",
-    "title": "Vc",
-    "category": "General",
-    "filename": "img-357.webp",
-    "originalName": "vc.jpg",
-    "size": 1112
   },
   {
     "id": "img-358",
@@ -3261,145 +2064,19 @@
     "id": "img-363",
     "src": "/images/gallery-archive/img-363.webp",
     "title": "70a05bd1 903f 4682 87a2 3d9351acbaf3 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-363.webp",
     "originalName": "70a05bd1-903f-4682-87a2-3d9351acbaf3-1.png",
     "size": 90958
   },
   {
-    "id": "img-364",
-    "src": "/images/gallery-archive/img-364.webp",
-    "title": "Apply For A Job Img01 V1 1 Scaled",
-    "category": "General",
-    "filename": "img-364.webp",
-    "originalName": "Apply-for-a-Job_img01-v1-1-scaled.jpg",
-    "size": 94096
-  },
-  {
-    "id": "img-365",
-    "src": "/images/gallery-archive/img-365.webp",
-    "title": "Apply For A Job Img01 V1 1",
-    "category": "General",
-    "filename": "img-365.webp",
-    "originalName": "Apply-for-a-Job_img01-v1-1.jpg",
-    "size": 96882
-  },
-  {
-    "id": "img-366",
-    "src": "/images/gallery-archive/img-366.webp",
-    "title": "Ardmore 24 2026 Img08 1 1 Scaled",
-    "category": "Field & Construction",
-    "filename": "img-366.webp",
-    "originalName": "Ardmore_24-2026-img08-1-1-scaled.jpg",
-    "size": 83136
-  },
-  {
-    "id": "img-367",
-    "src": "/images/gallery-archive/img-367.webp",
-    "title": "Ardmore 24 2026 Img08 1 1",
-    "category": "Field & Construction",
-    "filename": "img-367.webp",
-    "originalName": "Ardmore_24-2026-img08-1-1.jpg",
-    "size": 83022
-  },
-  {
-    "id": "img-368",
-    "src": "/images/gallery-archive/img-368.webp",
-    "title": "Ardmore 24 2026 Img08 1 Scaled",
-    "category": "Field & Construction",
-    "filename": "img-368.webp",
-    "originalName": "Ardmore_24-2026-img08-1-scaled.jpg",
-    "size": 51378
-  },
-  {
-    "id": "img-369",
-    "src": "/images/gallery-archive/img-369.webp",
-    "title": "Ardmore 24 2026 Img08 1",
-    "category": "Field & Construction",
-    "filename": "img-369.webp",
-    "originalName": "Ardmore_24-2026-img08-1.jpg",
-    "size": 52152
-  },
-  {
     "id": "img-370",
     "src": "/images/gallery-archive/img-370.webp",
     "title": "B02add17 890e 4523 84e7 34c639e0b30a 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-370.webp",
     "originalName": "b02add17-890e-4523-84e7-34c639e0b30a-1.png",
     "size": 113688
-  },
-  {
-    "id": "img-371",
-    "src": "/images/gallery-archive/img-371.webp",
-    "title": "Become A Subcontrator Img01 V1 1 Scaled",
-    "category": "General",
-    "filename": "img-371.webp",
-    "originalName": "Become-a-Subcontrator_Img01-v1-1-scaled.jpg",
-    "size": 154134
-  },
-  {
-    "id": "img-372",
-    "src": "/images/gallery-archive/img-372.webp",
-    "title": "Become A Subcontrator Img01 V1 1",
-    "category": "General",
-    "filename": "img-372.webp",
-    "originalName": "Become-a-Subcontrator_Img01-v1-1.jpg",
-    "size": 158236
-  },
-  {
-    "id": "img-373",
-    "src": "/images/gallery-archive/img-373.webp",
-    "title": "Career IMG01",
-    "category": "General",
-    "filename": "img-373.webp",
-    "originalName": "Career_IMG01.png",
-    "size": 144460
-  },
-  {
-    "id": "img-374",
-    "src": "/images/gallery-archive/img-374.webp",
-    "title": "Carlie Hi5 In The Office IMG1 1 Scaled",
-    "category": "General",
-    "filename": "img-374.webp",
-    "originalName": "Carlie-Hi5-in-the-office_IMG1-1-scaled.jpg",
-    "size": 59734
-  },
-  {
-    "id": "img-375",
-    "src": "/images/gallery-archive/img-375.webp",
-    "title": "Carlie Hi5 In The Office IMG1 1",
-    "category": "General",
-    "filename": "img-375.webp",
-    "originalName": "Carlie-Hi5-in-the-office_IMG1-1.jpg",
-    "size": 61852
-  },
-  {
-    "id": "img-376",
-    "src": "/images/gallery-archive/img-376.webp",
-    "title": "ChatGPT Image Jul 5 2026 01 40 41 PM",
-    "category": "General",
-    "filename": "img-376.webp",
-    "originalName": "ChatGPT-Image-Jul-5-2026-01_40_41-PM.png",
-    "size": 104760
-  },
-  {
-    "id": "img-377",
-    "src": "/images/gallery-archive/img-377.webp",
-    "title": "D J Kitchen Convo Img1 1 Scaled",
-    "category": "General",
-    "filename": "img-377.webp",
-    "originalName": "D-J-Kitchen-Convo_img1-1-scaled.jpg",
-    "size": 74070
-  },
-  {
-    "id": "img-378",
-    "src": "/images/gallery-archive/img-378.webp",
-    "title": "D J Kitchen Convo Img1 1",
-    "category": "General",
-    "filename": "img-378.webp",
-    "originalName": "D-J-Kitchen-Convo_img1-1.jpg",
-    "size": 76046
   },
   {
     "id": "img-379",
@@ -3456,96 +2133,6 @@
     "size": 104126
   },
   {
-    "id": "img-385",
-    "src": "/images/gallery-archive/img-385.webp",
-    "title": "IMG Mike And Paul At Readiing Hospital 02",
-    "category": "Healthcare",
-    "filename": "img-385.webp",
-    "originalName": "IMG_Mike-and-Paul-at-Readiing-Hospital-02.png",
-    "size": 81480
-  },
-  {
-    "id": "img-386",
-    "src": "/images/gallery-archive/img-386.webp",
-    "title": "IMG Replace With Team Eating Scaled",
-    "category": "Field & Construction",
-    "filename": "img-386.webp",
-    "originalName": "IMG_Replace-with-Team-eating-scaled.jpg",
-    "size": 102586
-  },
-  {
-    "id": "img-387",
-    "src": "/images/gallery-archive/img-387.webp",
-    "title": "IMG Replace With Team Eating",
-    "category": "Field & Construction",
-    "filename": "img-387.webp",
-    "originalName": "IMG_Replace-with-Team-eating.jpg",
-    "size": 106840
-  },
-  {
-    "id": "img-388",
-    "src": "/images/gallery-archive/img-388.webp",
-    "title": "Imhe",
-    "category": "General",
-    "filename": "img-388.webp",
-    "originalName": "imhe.jpg",
-    "size": 59448
-  },
-  {
-    "id": "img-389",
-    "src": "/images/gallery-archive/img-389.webp",
-    "title": "Inquiries Img01 V1 1 Scaled",
-    "category": "General",
-    "filename": "img-389.webp",
-    "originalName": "Inquiries_Img01-v1-1-scaled.jpg",
-    "size": 95584
-  },
-  {
-    "id": "img-390",
-    "src": "/images/gallery-archive/img-390.webp",
-    "title": "Inquiries Img01 V1 1",
-    "category": "General",
-    "filename": "img-390.webp",
-    "originalName": "Inquiries_Img01-v1-1.jpg",
-    "size": 98150
-  },
-  {
-    "id": "img-391",
-    "src": "/images/gallery-archive/img-391.webp",
-    "title": "Jeff In The Office Img1 1 Scaled",
-    "category": "General",
-    "filename": "img-391.webp",
-    "originalName": "Jeff-in-the-office_img1-1-scaled.jpg",
-    "size": 68358
-  },
-  {
-    "id": "img-392",
-    "src": "/images/gallery-archive/img-392.webp",
-    "title": "Jeff In The Office Img1 1",
-    "category": "General",
-    "filename": "img-392.webp",
-    "originalName": "Jeff-in-the-office_img1-1.jpg",
-    "size": 70036
-  },
-  {
-    "id": "img-393",
-    "src": "/images/gallery-archive/img-393.webp",
-    "title": "Julia In The Office  IMG1 1 Scaled",
-    "category": "General",
-    "filename": "img-393.webp",
-    "originalName": "Julia-in-the-office_-IMG1-1-scaled.jpg",
-    "size": 108076
-  },
-  {
-    "id": "img-394",
-    "src": "/images/gallery-archive/img-394.webp",
-    "title": "Julia In The Office  IMG1 1",
-    "category": "General",
-    "filename": "img-394.webp",
-    "originalName": "Julia-in-the-office_-IMG1-1.jpg",
-    "size": 111504
-  },
-  {
     "id": "img-395",
     "src": "/images/gallery-archive/img-395.webp",
     "title": "Lincoln MS",
@@ -3562,42 +2149,6 @@
     "filename": "img-396.webp",
     "originalName": "montco-college-health-center-4-768x576-1.jpg",
     "size": 43138
-  },
-  {
-    "id": "img-397",
-    "src": "/images/gallery-archive/img-397.webp",
-    "title": "Paul At Work Img1 1 1",
-    "category": "General",
-    "filename": "img-397.webp",
-    "originalName": "Paul-at-work-img1-1-1.png",
-    "size": 66186
-  },
-  {
-    "id": "img-398",
-    "src": "/images/gallery-archive/img-398.webp",
-    "title": "Paul At Work Img1 1",
-    "category": "General",
-    "filename": "img-398.webp",
-    "originalName": "Paul-at-work-img1-1.png",
-    "size": 73380
-  },
-  {
-    "id": "img-399",
-    "src": "/images/gallery-archive/img-399.webp",
-    "title": "The 225x300 1",
-    "category": "General",
-    "filename": "img-399.webp",
-    "originalName": "the-225x300-1.jpeg",
-    "size": 13598
-  },
-  {
-    "id": "img-400",
-    "src": "/images/gallery-archive/img-400.webp",
-    "title": "Untitled 4",
-    "category": "General",
-    "filename": "img-400.webp",
-    "originalName": "Untitled-4.jpg",
-    "size": 30558
   },
   {
     "id": "img-401",
@@ -3729,7 +2280,7 @@
     "id": "img-415",
     "src": "/images/gallery-archive/img-415.webp",
     "title": "02A74CC5 CC3D 4F39 95A2 D3E242954266 Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-415.webp",
     "originalName": "02A74CC5-CC3D-4F39-95A2-D3E242954266-scaled.jpeg",
     "size": 172882
@@ -3738,7 +2289,7 @@
     "id": "img-416",
     "src": "/images/gallery-archive/img-416.webp",
     "title": "02A74CC5 CC3D 4F39 95A2 D3E242954266",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-416.webp",
     "originalName": "02A74CC5-CC3D-4F39-95A2-D3E242954266.jpeg",
     "size": 177314
@@ -3747,7 +2298,7 @@
     "id": "img-417",
     "src": "/images/gallery-archive/img-417.webp",
     "title": "0BF1FA9A D886 4CC5 B436 3C6CD23F53EF 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-417.webp",
     "originalName": "0BF1FA9A-D886-4CC5-B436-3C6CD23F53EF-1.jpeg",
     "size": 70670
@@ -3756,7 +2307,7 @@
     "id": "img-418",
     "src": "/images/gallery-archive/img-418.webp",
     "title": "0BF1FA9A D886 4CC5 B436 3C6CD23F53EF",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-418.webp",
     "originalName": "0BF1FA9A-D886-4CC5-B436-3C6CD23F53EF.jpeg",
     "size": 70670
@@ -3765,7 +2316,7 @@
     "id": "img-419",
     "src": "/images/gallery-archive/img-419.webp",
     "title": "0E3CFABF EA54 4C66 B97A 3D9DA73C3C5A Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-419.webp",
     "originalName": "0E3CFABF-EA54-4C66-B97A-3D9DA73C3C5A-scaled.jpeg",
     "size": 113002
@@ -3774,7 +2325,7 @@
     "id": "img-420",
     "src": "/images/gallery-archive/img-420.webp",
     "title": "0E3CFABF EA54 4C66 B97A 3D9DA73C3C5A",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-420.webp",
     "originalName": "0E3CFABF-EA54-4C66-B97A-3D9DA73C3C5A.jpeg",
     "size": 113562
@@ -3783,7 +2334,7 @@
     "id": "img-421",
     "src": "/images/gallery-archive/img-421.webp",
     "title": "0pp",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-421.webp",
     "originalName": "0pp.jpg",
     "size": 211200
@@ -3792,7 +2343,7 @@
     "id": "img-422",
     "src": "/images/gallery-archive/img-422.webp",
     "title": "11",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-422.webp",
     "originalName": "11.jpg",
     "size": 96424
@@ -3801,7 +2352,7 @@
     "id": "img-423",
     "src": "/images/gallery-archive/img-423.webp",
     "title": "159395E3 FA6F 44A4 857A 002BA0A167ED",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-423.webp",
     "originalName": "159395E3-FA6F-44A4-857A-002BA0A167ED.jpeg",
     "size": 170454
@@ -3810,7 +2361,7 @@
     "id": "img-424",
     "src": "/images/gallery-archive/img-424.webp",
     "title": "15D28B31 369A 4EF2 BE01 16E95A7D5E59 Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-424.webp",
     "originalName": "15D28B31-369A-4EF2-BE01-16E95A7D5E59-scaled.jpeg",
     "size": 76520
@@ -3819,7 +2370,7 @@
     "id": "img-425",
     "src": "/images/gallery-archive/img-425.webp",
     "title": "15D28B31 369A 4EF2 BE01 16E95A7D5E59",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-425.webp",
     "originalName": "15D28B31-369A-4EF2-BE01-16E95A7D5E59.jpeg",
     "size": 77064
@@ -3828,7 +2379,7 @@
     "id": "img-426",
     "src": "/images/gallery-archive/img-426.webp",
     "title": "1E086F15 12E4 48FA B123 D872DF3683EF Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-426.webp",
     "originalName": "1E086F15-12E4-48FA-B123-D872DF3683EF-scaled.jpeg",
     "size": 112314
@@ -3837,25 +2388,16 @@
     "id": "img-427",
     "src": "/images/gallery-archive/img-427.webp",
     "title": "1E086F15 12E4 48FA B123 D872DF3683EF",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-427.webp",
     "originalName": "1E086F15-12E4-48FA-B123-D872DF3683EF.jpeg",
     "size": 113626
   },
   {
-    "id": "img-428",
-    "src": "/images/gallery-archive/img-428.webp",
-    "title": "34",
-    "category": "General",
-    "filename": "img-428.webp",
-    "originalName": "34.jpg",
-    "size": 96670
-  },
-  {
     "id": "img-429",
     "src": "/images/gallery-archive/img-429.webp",
     "title": "3AD38C66 12B2 4FB1 B241 DFBD2405530A Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-429.webp",
     "originalName": "3AD38C66-12B2-4FB1-B241-DFBD2405530A-scaled.jpeg",
     "size": 63824
@@ -3864,7 +2406,7 @@
     "id": "img-430",
     "src": "/images/gallery-archive/img-430.webp",
     "title": "3AD38C66 12B2 4FB1 B241 DFBD2405530A",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-430.webp",
     "originalName": "3AD38C66-12B2-4FB1-B241-DFBD2405530A.jpeg",
     "size": 65222
@@ -3873,7 +2415,7 @@
     "id": "img-431",
     "src": "/images/gallery-archive/img-431.webp",
     "title": "3D19B798 5350 42C1 B7F6 CDCE35C58CB3",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-431.webp",
     "originalName": "3D19B798-5350-42C1-B7F6-CDCE35C58CB3.jpeg",
     "size": 116974
@@ -3882,7 +2424,7 @@
     "id": "img-432",
     "src": "/images/gallery-archive/img-432.webp",
     "title": "3E961C48 62EE 4980 9DB0 CC123E4B847B",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-432.webp",
     "originalName": "3E961C48-62EE-4980-9DB0-CC123E4B847B.jpeg",
     "size": 60386
@@ -3891,7 +2433,7 @@
     "id": "img-433",
     "src": "/images/gallery-archive/img-433.webp",
     "title": "5435319D 1627 4E1E B2F3 426D76017715 Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-433.webp",
     "originalName": "5435319D-1627-4E1E-B2F3-426D76017715-scaled.jpeg",
     "size": 76728
@@ -3900,7 +2442,7 @@
     "id": "img-434",
     "src": "/images/gallery-archive/img-434.webp",
     "title": "5435319D 1627 4E1E B2F3 426D76017715",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-434.webp",
     "originalName": "5435319D-1627-4E1E-B2F3-426D76017715.jpeg",
     "size": 78324
@@ -3909,7 +2451,7 @@
     "id": "img-435",
     "src": "/images/gallery-archive/img-435.webp",
     "title": "6F8B59C1 8B77 416D A731 651E96966A2F",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-435.webp",
     "originalName": "6F8B59C1-8B77-416D-A731-651E96966A2F.jpeg",
     "size": 284766
@@ -3918,7 +2460,7 @@
     "id": "img-436",
     "src": "/images/gallery-archive/img-436.webp",
     "title": "A E2D81DEF 9AD8 4EDD 8DC0 307FBBB8 1024x768 1 300x225 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-436.webp",
     "originalName": "a-E2D81DEF-9AD8-4EDD-8DC0-307FBBB8-1024x768-1-300x225-1.jpg",
     "size": 10308
@@ -3927,7 +2469,7 @@
     "id": "img-437",
     "src": "/images/gallery-archive/img-437.webp",
     "title": "A3FCC14C DB26 4631 ABAE 3CF61821EA12 Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-437.webp",
     "originalName": "A3FCC14C-DB26-4631-ABAE-3CF61821EA12-scaled.jpeg",
     "size": 140018
@@ -3936,7 +2478,7 @@
     "id": "img-438",
     "src": "/images/gallery-archive/img-438.webp",
     "title": "A3FCC14C DB26 4631 ABAE 3CF61821EA12",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-438.webp",
     "originalName": "A3FCC14C-DB26-4631-ABAE-3CF61821EA12.jpeg",
     "size": 143136
@@ -3945,7 +2487,7 @@
     "id": "img-439",
     "src": "/images/gallery-archive/img-439.webp",
     "title": "AF6963F1 AB6A 4668 ACA9 E3840E868823",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-439.webp",
     "originalName": "AF6963F1-AB6A-4668-ACA9-E3840E868823.jpeg",
     "size": 52540
@@ -3954,7 +2496,7 @@
     "id": "img-440",
     "src": "/images/gallery-archive/img-440.webp",
     "title": "Aquaponics 07 Scaled",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-440.webp",
     "originalName": "Aquaponics-07-scaled.jpg",
     "size": 108190
@@ -3963,7 +2505,7 @@
     "id": "img-441",
     "src": "/images/gallery-archive/img-441.webp",
     "title": "Aquaponics 07",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-441.webp",
     "originalName": "Aquaponics-07.jpg",
     "size": 113464
@@ -3972,7 +2514,7 @@
     "id": "img-442",
     "src": "/images/gallery-archive/img-442.webp",
     "title": "Aquaponics 09 Scaled",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-442.webp",
     "originalName": "Aquaponics-09-scaled.jpg",
     "size": 139344
@@ -3981,7 +2523,7 @@
     "id": "img-443",
     "src": "/images/gallery-archive/img-443.webp",
     "title": "Aquaponics 09",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-443.webp",
     "originalName": "Aquaponics-09.jpg",
     "size": 144190
@@ -3990,7 +2532,7 @@
     "id": "img-444",
     "src": "/images/gallery-archive/img-444.webp",
     "title": "Aquaponics 10 Scaled",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-444.webp",
     "originalName": "Aquaponics-10-scaled.jpg",
     "size": 148286
@@ -3999,7 +2541,7 @@
     "id": "img-445",
     "src": "/images/gallery-archive/img-445.webp",
     "title": "Aquaponics 10",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-445.webp",
     "originalName": "Aquaponics-10.jpg",
     "size": 148404
@@ -4008,7 +2550,7 @@
     "id": "img-446",
     "src": "/images/gallery-archive/img-446.webp",
     "title": "Aquaponics 17 Scaled",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-446.webp",
     "originalName": "Aquaponics-17-scaled.jpg",
     "size": 106420
@@ -4017,7 +2559,7 @@
     "id": "img-447",
     "src": "/images/gallery-archive/img-447.webp",
     "title": "Aquaponics 17",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-447.webp",
     "originalName": "Aquaponics-17.jpg",
     "size": 106378
@@ -4134,7 +2676,7 @@
     "id": "img-460",
     "src": "/images/gallery-archive/img-460.webp",
     "title": "BDB3BAC4 F27A 4CF6 988A 1FB597361CA9 Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-460.webp",
     "originalName": "BDB3BAC4-F27A-4CF6-988A-1FB597361CA9-scaled.jpeg",
     "size": 48720
@@ -4143,7 +2685,7 @@
     "id": "img-461",
     "src": "/images/gallery-archive/img-461.webp",
     "title": "BDB3BAC4 F27A 4CF6 988A 1FB597361CA9",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-461.webp",
     "originalName": "BDB3BAC4-F27A-4CF6-988A-1FB597361CA9.jpeg",
     "size": 48876
@@ -4242,7 +2784,7 @@
     "id": "img-472",
     "src": "/images/gallery-archive/img-472.webp",
     "title": "BlueBell IMG 001 1 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-472.webp",
     "originalName": "BlueBell-IMG-001-1-scaled.jpeg",
     "size": 152692
@@ -4251,7 +2793,7 @@
     "id": "img-473",
     "src": "/images/gallery-archive/img-473.webp",
     "title": "BlueBell IMG 001 1",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-473.webp",
     "originalName": "BlueBell-IMG-001-1.jpeg",
     "size": 160694
@@ -4260,7 +2802,7 @@
     "id": "img-474",
     "src": "/images/gallery-archive/img-474.webp",
     "title": "BlueBell IMG 001 2 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-474.webp",
     "originalName": "BlueBell-IMG-001-2-scaled.jpeg",
     "size": 205540
@@ -4269,7 +2811,7 @@
     "id": "img-475",
     "src": "/images/gallery-archive/img-475.webp",
     "title": "BlueBell IMG 001 2",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-475.webp",
     "originalName": "BlueBell-IMG-001-2.jpeg",
     "size": 220234
@@ -4278,7 +2820,7 @@
     "id": "img-476",
     "src": "/images/gallery-archive/img-476.webp",
     "title": "BlueBell IMG 001 3 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-476.webp",
     "originalName": "BlueBell-IMG-001-3-scaled.jpeg",
     "size": 61466
@@ -4287,7 +2829,7 @@
     "id": "img-477",
     "src": "/images/gallery-archive/img-477.webp",
     "title": "BlueBell IMG 001 3",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-477.webp",
     "originalName": "BlueBell-IMG-001-3.jpeg",
     "size": 63884
@@ -4296,7 +2838,7 @@
     "id": "img-478",
     "src": "/images/gallery-archive/img-478.webp",
     "title": "BlueBell IMG 001 4 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-478.webp",
     "originalName": "BlueBell-IMG-001-4-scaled.jpeg",
     "size": 80822
@@ -4305,7 +2847,7 @@
     "id": "img-479",
     "src": "/images/gallery-archive/img-479.webp",
     "title": "BlueBell IMG 001 4",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-479.webp",
     "originalName": "BlueBell-IMG-001-4.jpeg",
     "size": 85326
@@ -4314,7 +2856,7 @@
     "id": "img-480",
     "src": "/images/gallery-archive/img-480.webp",
     "title": "BlueBell IMG 001 5 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-480.webp",
     "originalName": "BlueBell-IMG-001-5-scaled.jpeg",
     "size": 47796
@@ -4323,7 +2865,7 @@
     "id": "img-481",
     "src": "/images/gallery-archive/img-481.webp",
     "title": "BlueBell IMG 001 5",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-481.webp",
     "originalName": "BlueBell-IMG-001-5.jpeg",
     "size": 50284
@@ -4332,7 +2874,7 @@
     "id": "img-482",
     "src": "/images/gallery-archive/img-482.webp",
     "title": "BlueBell IMG 001 6 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-482.webp",
     "originalName": "BlueBell-IMG-001-6-scaled.jpeg",
     "size": 139180
@@ -4341,7 +2883,7 @@
     "id": "img-483",
     "src": "/images/gallery-archive/img-483.webp",
     "title": "BlueBell IMG 001 6",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-483.webp",
     "originalName": "BlueBell-IMG-001-6.jpeg",
     "size": 153040
@@ -4350,7 +2892,7 @@
     "id": "img-484",
     "src": "/images/gallery-archive/img-484.webp",
     "title": "BlueBell IMG 001 7 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-484.webp",
     "originalName": "BlueBell-IMG-001-7-scaled.jpeg",
     "size": 132404
@@ -4359,7 +2901,7 @@
     "id": "img-485",
     "src": "/images/gallery-archive/img-485.webp",
     "title": "BlueBell IMG 001 7",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-485.webp",
     "originalName": "BlueBell-IMG-001-7.jpeg",
     "size": 141442
@@ -4368,7 +2910,7 @@
     "id": "img-486",
     "src": "/images/gallery-archive/img-486.webp",
     "title": "BlueBell IMG 001 8 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-486.webp",
     "originalName": "BlueBell-IMG-001-8-scaled.jpeg",
     "size": 128880
@@ -4377,7 +2919,7 @@
     "id": "img-487",
     "src": "/images/gallery-archive/img-487.webp",
     "title": "BlueBell IMG 001 8",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-487.webp",
     "originalName": "BlueBell-IMG-001-8.jpeg",
     "size": 139904
@@ -4386,7 +2928,7 @@
     "id": "img-488",
     "src": "/images/gallery-archive/img-488.webp",
     "title": "BlueBell IMG 009 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-488.webp",
     "originalName": "BlueBell-IMG-009-scaled.jpeg",
     "size": 181616
@@ -4395,7 +2937,7 @@
     "id": "img-489",
     "src": "/images/gallery-archive/img-489.webp",
     "title": "BlueBell IMG 009",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-489.webp",
     "originalName": "BlueBell-IMG-009.jpeg",
     "size": 193212
@@ -4404,7 +2946,7 @@
     "id": "img-490",
     "src": "/images/gallery-archive/img-490.webp",
     "title": "Burgess 01 Scaled",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-490.webp",
     "originalName": "Burgess_01-scaled.jpg",
     "size": 112140
@@ -4413,7 +2955,7 @@
     "id": "img-491",
     "src": "/images/gallery-archive/img-491.webp",
     "title": "Burgess 01",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-491.webp",
     "originalName": "Burgess_01.jpg",
     "size": 112932
@@ -4422,7 +2964,7 @@
     "id": "img-492",
     "src": "/images/gallery-archive/img-492.webp",
     "title": "Burgess 03 Scaled",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-492.webp",
     "originalName": "Burgess_03-scaled.jpg",
     "size": 130750
@@ -4431,7 +2973,7 @@
     "id": "img-493",
     "src": "/images/gallery-archive/img-493.webp",
     "title": "Burgess 03",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-493.webp",
     "originalName": "Burgess_03.jpg",
     "size": 128684
@@ -4440,7 +2982,7 @@
     "id": "img-494",
     "src": "/images/gallery-archive/img-494.webp",
     "title": "C1A0FBE6 6711 468E 888F F4915D92F264 1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-494.webp",
     "originalName": "C1A0FBE6-6711-468E-888F-F4915D92F264-1.jpeg",
     "size": 143024
@@ -4449,7 +2991,7 @@
     "id": "img-495",
     "src": "/images/gallery-archive/img-495.webp",
     "title": "C1A0FBE6 6711 468E 888F F4915D92F264 Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-495.webp",
     "originalName": "C1A0FBE6-6711-468E-888F-F4915D92F264-scaled.jpeg",
     "size": 102514
@@ -4458,7 +3000,7 @@
     "id": "img-496",
     "src": "/images/gallery-archive/img-496.webp",
     "title": "C1A0FBE6 6711 468E 888F F4915D92F264",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-496.webp",
     "originalName": "C1A0FBE6-6711-468E-888F-F4915D92F264.jpeg",
     "size": 102898
@@ -4467,7 +3009,7 @@
     "id": "img-497",
     "src": "/images/gallery-archive/img-497.webp",
     "title": "CB South Image1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-497.webp",
     "originalName": "CB-South-Image1.jpeg",
     "size": 141198
@@ -4476,7 +3018,7 @@
     "id": "img-498",
     "src": "/images/gallery-archive/img-498.webp",
     "title": "CCA 01 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-498.webp",
     "originalName": "CCA-01-scaled.jpg",
     "size": 172422
@@ -4485,7 +3027,7 @@
     "id": "img-499",
     "src": "/images/gallery-archive/img-499.webp",
     "title": "CCA 01",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-499.webp",
     "originalName": "CCA-01.jpg",
     "size": 185150
@@ -4494,7 +3036,7 @@
     "id": "img-500",
     "src": "/images/gallery-archive/img-500.webp",
     "title": "CCA 02 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-500.webp",
     "originalName": "CCA-02-scaled.jpg",
     "size": 138210
@@ -4503,7 +3045,7 @@
     "id": "img-501",
     "src": "/images/gallery-archive/img-501.webp",
     "title": "CCA 02",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-501.webp",
     "originalName": "CCA-02.jpg",
     "size": 138478
@@ -4512,7 +3054,7 @@
     "id": "img-502",
     "src": "/images/gallery-archive/img-502.webp",
     "title": "CCA 03 1 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-502.webp",
     "originalName": "CCA-03-1-scaled.jpg",
     "size": 132770
@@ -4521,7 +3063,7 @@
     "id": "img-503",
     "src": "/images/gallery-archive/img-503.webp",
     "title": "CCA 03 1",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-503.webp",
     "originalName": "CCA-03-1.jpg",
     "size": 133358
@@ -4530,7 +3072,7 @@
     "id": "img-504",
     "src": "/images/gallery-archive/img-504.webp",
     "title": "CCA 03 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-504.webp",
     "originalName": "CCA-03-scaled.jpg",
     "size": 132770
@@ -4539,7 +3081,7 @@
     "id": "img-505",
     "src": "/images/gallery-archive/img-505.webp",
     "title": "CCA 03",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-505.webp",
     "originalName": "CCA-03.jpg",
     "size": 133358
@@ -4548,7 +3090,7 @@
     "id": "img-506",
     "src": "/images/gallery-archive/img-506.webp",
     "title": "CCA 04 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-506.webp",
     "originalName": "CCA-04-scaled.jpg",
     "size": 49788
@@ -4557,7 +3099,7 @@
     "id": "img-507",
     "src": "/images/gallery-archive/img-507.webp",
     "title": "CCA 04",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-507.webp",
     "originalName": "CCA-04.jpg",
     "size": 49780
@@ -4566,7 +3108,7 @@
     "id": "img-508",
     "src": "/images/gallery-archive/img-508.webp",
     "title": "CCA 05 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-508.webp",
     "originalName": "CCA-05-scaled.jpg",
     "size": 46710
@@ -4575,7 +3117,7 @@
     "id": "img-509",
     "src": "/images/gallery-archive/img-509.webp",
     "title": "CCA 05",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-509.webp",
     "originalName": "CCA-05.jpg",
     "size": 47688
@@ -4584,7 +3126,7 @@
     "id": "img-510",
     "src": "/images/gallery-archive/img-510.webp",
     "title": "CCA 06 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-510.webp",
     "originalName": "CCA-06-scaled.jpg",
     "size": 77576
@@ -4593,7 +3135,7 @@
     "id": "img-511",
     "src": "/images/gallery-archive/img-511.webp",
     "title": "CCA 06",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-511.webp",
     "originalName": "CCA-06.jpg",
     "size": 76824
@@ -4602,7 +3144,7 @@
     "id": "img-512",
     "src": "/images/gallery-archive/img-512.webp",
     "title": "CCA 07 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-512.webp",
     "originalName": "CCA-07-scaled.jpg",
     "size": 62520
@@ -4611,7 +3153,7 @@
     "id": "img-513",
     "src": "/images/gallery-archive/img-513.webp",
     "title": "CCA 07",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-513.webp",
     "originalName": "CCA-07.jpg",
     "size": 65622
@@ -4620,7 +3162,7 @@
     "id": "img-514",
     "src": "/images/gallery-archive/img-514.webp",
     "title": "CCA 08 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-514.webp",
     "originalName": "CCA-08-scaled.jpg",
     "size": 86168
@@ -4629,7 +3171,7 @@
     "id": "img-515",
     "src": "/images/gallery-archive/img-515.webp",
     "title": "CCA 08",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-515.webp",
     "originalName": "CCA-08.jpg",
     "size": 84982
@@ -4638,7 +3180,7 @@
     "id": "img-516",
     "src": "/images/gallery-archive/img-516.webp",
     "title": "CCA 09 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-516.webp",
     "originalName": "CCA-09-scaled.jpg",
     "size": 86712
@@ -4647,7 +3189,7 @@
     "id": "img-517",
     "src": "/images/gallery-archive/img-517.webp",
     "title": "CCA 09",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-517.webp",
     "originalName": "CCA-09.jpg",
     "size": 86288
@@ -4656,7 +3198,7 @@
     "id": "img-518",
     "src": "/images/gallery-archive/img-518.webp",
     "title": "CCA 10 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-518.webp",
     "originalName": "CCA-10-scaled.jpg",
     "size": 78526
@@ -4665,7 +3207,7 @@
     "id": "img-519",
     "src": "/images/gallery-archive/img-519.webp",
     "title": "CCA 10",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-519.webp",
     "originalName": "CCA-10.jpg",
     "size": 77982
@@ -4674,7 +3216,7 @@
     "id": "img-520",
     "src": "/images/gallery-archive/img-520.webp",
     "title": "CCA 11 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-520.webp",
     "originalName": "CCA-11-scaled.jpg",
     "size": 73904
@@ -4683,7 +3225,7 @@
     "id": "img-521",
     "src": "/images/gallery-archive/img-521.webp",
     "title": "CCA 11",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-521.webp",
     "originalName": "CCA-11.jpg",
     "size": 73070
@@ -4692,7 +3234,7 @@
     "id": "img-522",
     "src": "/images/gallery-archive/img-522.webp",
     "title": "CCA 12 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-522.webp",
     "originalName": "CCA-12-scaled.jpg",
     "size": 80756
@@ -4701,7 +3243,7 @@
     "id": "img-523",
     "src": "/images/gallery-archive/img-523.webp",
     "title": "CCA 12",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-523.webp",
     "originalName": "CCA-12.jpg",
     "size": 80020
@@ -4710,7 +3252,7 @@
     "id": "img-524",
     "src": "/images/gallery-archive/img-524.webp",
     "title": "CCA 13 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-524.webp",
     "originalName": "CCA-13-scaled.jpg",
     "size": 66192
@@ -4719,7 +3261,7 @@
     "id": "img-525",
     "src": "/images/gallery-archive/img-525.webp",
     "title": "CCA 13",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-525.webp",
     "originalName": "CCA-13.jpg",
     "size": 65736
@@ -4728,7 +3270,7 @@
     "id": "img-526",
     "src": "/images/gallery-archive/img-526.webp",
     "title": "CCA 14 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-526.webp",
     "originalName": "CCA-14-scaled.jpg",
     "size": 68112
@@ -4737,7 +3279,7 @@
     "id": "img-527",
     "src": "/images/gallery-archive/img-527.webp",
     "title": "CCA 14",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-527.webp",
     "originalName": "CCA-14.jpg",
     "size": 70326
@@ -4746,7 +3288,7 @@
     "id": "img-528",
     "src": "/images/gallery-archive/img-528.webp",
     "title": "CCA 15 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-528.webp",
     "originalName": "CCA-15-scaled.jpg",
     "size": 60980
@@ -4755,7 +3297,7 @@
     "id": "img-529",
     "src": "/images/gallery-archive/img-529.webp",
     "title": "CCA 15",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-529.webp",
     "originalName": "CCA-15.jpg",
     "size": 64582
@@ -4764,7 +3306,7 @@
     "id": "img-530",
     "src": "/images/gallery-archive/img-530.webp",
     "title": "CCA 16 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-530.webp",
     "originalName": "CCA-16-scaled.jpg",
     "size": 55180
@@ -4773,7 +3315,7 @@
     "id": "img-531",
     "src": "/images/gallery-archive/img-531.webp",
     "title": "CCA 16",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-531.webp",
     "originalName": "CCA-16.jpg",
     "size": 54566
@@ -4782,7 +3324,7 @@
     "id": "img-532",
     "src": "/images/gallery-archive/img-532.webp",
     "title": "CCA 17 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-532.webp",
     "originalName": "CCA-17-scaled.jpg",
     "size": 46444
@@ -4791,7 +3333,7 @@
     "id": "img-533",
     "src": "/images/gallery-archive/img-533.webp",
     "title": "CCA 17",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-533.webp",
     "originalName": "CCA-17.jpg",
     "size": 46352
@@ -4800,7 +3342,7 @@
     "id": "img-534",
     "src": "/images/gallery-archive/img-534.webp",
     "title": "CCA 18 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-534.webp",
     "originalName": "CCA-18-scaled.jpg",
     "size": 52970
@@ -4809,7 +3351,7 @@
     "id": "img-535",
     "src": "/images/gallery-archive/img-535.webp",
     "title": "CCA 18",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-535.webp",
     "originalName": "CCA-18.jpg",
     "size": 52764
@@ -4818,7 +3360,7 @@
     "id": "img-536",
     "src": "/images/gallery-archive/img-536.webp",
     "title": "CCA 19 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-536.webp",
     "originalName": "CCA-19-scaled.jpg",
     "size": 36512
@@ -4827,7 +3369,7 @@
     "id": "img-537",
     "src": "/images/gallery-archive/img-537.webp",
     "title": "CCA 19",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-537.webp",
     "originalName": "CCA-19.jpg",
     "size": 36470
@@ -4836,7 +3378,7 @@
     "id": "img-538",
     "src": "/images/gallery-archive/img-538.webp",
     "title": "CCA 21 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-538.webp",
     "originalName": "CCA-21-scaled.jpg",
     "size": 78278
@@ -4845,7 +3387,7 @@
     "id": "img-539",
     "src": "/images/gallery-archive/img-539.webp",
     "title": "CCA 21",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-539.webp",
     "originalName": "CCA-21.jpg",
     "size": 82088
@@ -4854,7 +3396,7 @@
     "id": "img-540",
     "src": "/images/gallery-archive/img-540.webp",
     "title": "CCA 22 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-540.webp",
     "originalName": "CCA-22-scaled.jpg",
     "size": 96594
@@ -4863,7 +3405,7 @@
     "id": "img-541",
     "src": "/images/gallery-archive/img-541.webp",
     "title": "CCA 22",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-541.webp",
     "originalName": "CCA-22.jpg",
     "size": 96014
@@ -4872,7 +3414,7 @@
     "id": "img-542",
     "src": "/images/gallery-archive/img-542.webp",
     "title": "CCA 23 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-542.webp",
     "originalName": "CCA-23-scaled.jpg",
     "size": 78550
@@ -4881,7 +3423,7 @@
     "id": "img-543",
     "src": "/images/gallery-archive/img-543.webp",
     "title": "CCA 23",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-543.webp",
     "originalName": "CCA-23.jpg",
     "size": 82458
@@ -4890,7 +3432,7 @@
     "id": "img-544",
     "src": "/images/gallery-archive/img-544.webp",
     "title": "CCA 24 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-544.webp",
     "originalName": "CCA-24-scaled.jpg",
     "size": 65870
@@ -4899,7 +3441,7 @@
     "id": "img-545",
     "src": "/images/gallery-archive/img-545.webp",
     "title": "CCA 24",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-545.webp",
     "originalName": "CCA-24.jpg",
     "size": 64926
@@ -4908,7 +3450,7 @@
     "id": "img-546",
     "src": "/images/gallery-archive/img-546.webp",
     "title": "CCA 25 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-546.webp",
     "originalName": "CCA-25-scaled.jpg",
     "size": 240310
@@ -4917,7 +3459,7 @@
     "id": "img-547",
     "src": "/images/gallery-archive/img-547.webp",
     "title": "CCA 25",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-547.webp",
     "originalName": "CCA-25.jpg",
     "size": 250632
@@ -4926,7 +3468,7 @@
     "id": "img-548",
     "src": "/images/gallery-archive/img-548.webp",
     "title": "CCA 26 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-548.webp",
     "originalName": "CCA-26-scaled.jpg",
     "size": 213924
@@ -4935,7 +3477,7 @@
     "id": "img-549",
     "src": "/images/gallery-archive/img-549.webp",
     "title": "CCA 26",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-549.webp",
     "originalName": "CCA-26.jpg",
     "size": 214090
@@ -4944,7 +3486,7 @@
     "id": "img-550",
     "src": "/images/gallery-archive/img-550.webp",
     "title": "CCA 27 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-550.webp",
     "originalName": "CCA-27-scaled.jpg",
     "size": 191714
@@ -4953,7 +3495,7 @@
     "id": "img-551",
     "src": "/images/gallery-archive/img-551.webp",
     "title": "CCA 27",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-551.webp",
     "originalName": "CCA-27.jpg",
     "size": 192404
@@ -4962,7 +3504,7 @@
     "id": "img-552",
     "src": "/images/gallery-archive/img-552.webp",
     "title": "CCA 28 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-552.webp",
     "originalName": "CCA-28-scaled.jpg",
     "size": 98802
@@ -4971,7 +3513,7 @@
     "id": "img-553",
     "src": "/images/gallery-archive/img-553.webp",
     "title": "CCA 28",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-553.webp",
     "originalName": "CCA-28.jpg",
     "size": 103894
@@ -4980,7 +3522,7 @@
     "id": "img-554",
     "src": "/images/gallery-archive/img-554.webp",
     "title": "CCA 29 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-554.webp",
     "originalName": "CCA-29-scaled.jpg",
     "size": 200594
@@ -4989,7 +3531,7 @@
     "id": "img-555",
     "src": "/images/gallery-archive/img-555.webp",
     "title": "CCA 29",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-555.webp",
     "originalName": "CCA-29.jpg",
     "size": 207640
@@ -4998,7 +3540,7 @@
     "id": "img-556",
     "src": "/images/gallery-archive/img-556.webp",
     "title": "CCA 30 Scaled",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-556.webp",
     "originalName": "CCA-30-scaled.jpg",
     "size": 137350
@@ -5007,7 +3549,7 @@
     "id": "img-557",
     "src": "/images/gallery-archive/img-557.webp",
     "title": "CCA 30",
-    "category": "Institutional",
+    "category": "Education",
     "filename": "img-557.webp",
     "originalName": "CCA-30.jpg",
     "size": 134608
@@ -5016,7 +3558,7 @@
     "id": "img-558",
     "src": "/images/gallery-archive/img-558.webp",
     "title": "CFADE19D D8AC 47EB 8C28 3F92F33334DC Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-558.webp",
     "originalName": "CFADE19D-D8AC-47EB-8C28-3F92F33334DC-scaled.jpeg",
     "size": 81424
@@ -5025,7 +3567,7 @@
     "id": "img-559",
     "src": "/images/gallery-archive/img-559.webp",
     "title": "CFADE19D D8AC 47EB 8C28 3F92F33334DC",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-559.webp",
     "originalName": "CFADE19D-D8AC-47EB-8C28-3F92F33334DC.jpeg",
     "size": 82022
@@ -5205,7 +3747,7 @@
     "id": "img-579",
     "src": "/images/gallery-archive/img-579.webp",
     "title": "D9D96CB3 7BC0 4931 A5AF 48A312239BA0 Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-579.webp",
     "originalName": "D9D96CB3-7BC0-4931-A5AF-48A312239BA0-scaled.jpeg",
     "size": 113798
@@ -5214,7 +3756,7 @@
     "id": "img-580",
     "src": "/images/gallery-archive/img-580.webp",
     "title": "D9D96CB3 7BC0 4931 A5AF 48A312239BA0",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-580.webp",
     "originalName": "D9D96CB3-7BC0-4931-A5AF-48A312239BA0.jpeg",
     "size": 115446
@@ -5223,7 +3765,7 @@
     "id": "img-581",
     "src": "/images/gallery-archive/img-581.webp",
     "title": "DC3A5174 B4FD 4CFD 8017 A69120920276 Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-581.webp",
     "originalName": "DC3A5174-B4FD-4CFD-8017-A69120920276-scaled.jpeg",
     "size": 65634
@@ -5232,7 +3774,7 @@
     "id": "img-582",
     "src": "/images/gallery-archive/img-582.webp",
     "title": "DC3A5174 B4FD 4CFD 8017 A69120920276",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-582.webp",
     "originalName": "DC3A5174-B4FD-4CFD-8017-A69120920276.jpeg",
     "size": 64840
@@ -5985,19 +4527,10 @@
     "size": 70262
   },
   {
-    "id": "img-666",
-    "src": "/images/gallery-archive/img-666.webp",
-    "title": "Download",
-    "category": "General",
-    "filename": "img-666.webp",
-    "originalName": "download.jpg",
-    "size": 34958
-  },
-  {
     "id": "img-667",
     "src": "/images/gallery-archive/img-667.webp",
     "title": "E36869D8 7642 409C B96B A69460E29CE0 Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-667.webp",
     "originalName": "E36869D8-7642-409C-B96B-A69460E29CE0-scaled.jpeg",
     "size": 118206
@@ -6006,7 +4539,7 @@
     "id": "img-668",
     "src": "/images/gallery-archive/img-668.webp",
     "title": "E36869D8 7642 409C B96B A69460E29CE0",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-668.webp",
     "originalName": "E36869D8-7642-409C-B96B-A69460E29CE0.jpeg",
     "size": 119290
@@ -6051,7 +4584,7 @@
     "id": "img-673",
     "src": "/images/gallery-archive/img-673.webp",
     "title": "Gym Wide A 1 1 Scaled",
-    "category": "General",
+    "category": "Education",
     "filename": "img-673.webp",
     "originalName": "Gym-Wide-a-1-1-scaled.jpg",
     "size": 136488
@@ -6060,7 +4593,7 @@
     "id": "img-674",
     "src": "/images/gallery-archive/img-674.webp",
     "title": "Gym Wide A 1 1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-674.webp",
     "originalName": "Gym-Wide-a-1-1.jpg",
     "size": 138978
@@ -6069,7 +4602,7 @@
     "id": "img-675",
     "src": "/images/gallery-archive/img-675.webp",
     "title": "Gym Wide A 1 Scaled",
-    "category": "General",
+    "category": "Education",
     "filename": "img-675.webp",
     "originalName": "Gym-Wide-a-1-scaled.jpg",
     "size": 136488
@@ -6078,7 +4611,7 @@
     "id": "img-676",
     "src": "/images/gallery-archive/img-676.webp",
     "title": "Gym Wide A 1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-676.webp",
     "originalName": "Gym-Wide-a-1.jpg",
     "size": 138978
@@ -6087,7 +4620,7 @@
     "id": "img-677",
     "src": "/images/gallery-archive/img-677.webp",
     "title": "Hb Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-677.webp",
     "originalName": "hb-scaled.jpg",
     "size": 49418
@@ -6096,7 +4629,7 @@
     "id": "img-678",
     "src": "/images/gallery-archive/img-678.webp",
     "title": "Hb",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-678.webp",
     "originalName": "hb.jpg",
     "size": 49660
@@ -6480,15 +5013,6 @@
     "size": 199058
   },
   {
-    "id": "img-721",
-    "src": "/images/gallery-archive/img-721.webp",
-    "title": "IMG 20260623 154334",
-    "category": "Field & Construction",
-    "filename": "img-721.webp",
-    "originalName": "IMG_20260623_154334.jpg",
-    "size": 203808
-  },
-  {
     "id": "img-722",
     "src": "/images/gallery-archive/img-722.webp",
     "title": "IMG 20260623 154403 Scaled",
@@ -6525,19 +5049,10 @@
     "size": 216720
   },
   {
-    "id": "img-726",
-    "src": "/images/gallery-archive/img-726.webp",
-    "title": "Imhe 1536x1138 1",
-    "category": "General",
-    "filename": "img-726.webp",
-    "originalName": "imhe-1536x1138-1.png",
-    "size": 56024
-  },
-  {
     "id": "img-727",
     "src": "/images/gallery-archive/img-727.webp",
     "title": "Lobby One A 1 1 Scaled",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-727.webp",
     "originalName": "Lobby-One-a-1-1-scaled.jpg",
     "size": 94936
@@ -6546,7 +5061,7 @@
     "id": "img-728",
     "src": "/images/gallery-archive/img-728.webp",
     "title": "Lobby One A 1 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-728.webp",
     "originalName": "Lobby-One-a-1-1.jpg",
     "size": 97330
@@ -6555,7 +5070,7 @@
     "id": "img-729",
     "src": "/images/gallery-archive/img-729.webp",
     "title": "Lobby One A 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-729.webp",
     "originalName": "Lobby-One-a-1.jpg",
     "size": 97330
@@ -6564,7 +5079,7 @@
     "id": "img-730",
     "src": "/images/gallery-archive/img-730.webp",
     "title": "Lvi Ext 1",
-    "category": "General",
+    "category": "Institutional",
     "filename": "img-730.webp",
     "originalName": "lvi-ext-1.jpg",
     "size": 25842
@@ -6573,7 +5088,7 @@
     "id": "img-731",
     "src": "/images/gallery-archive/img-731.webp",
     "title": "Lvi Int 1 1",
-    "category": "General",
+    "category": "Institutional",
     "filename": "img-731.webp",
     "originalName": "lvi-int-1-1.jpg",
     "size": 44740
@@ -6582,7 +5097,7 @@
     "id": "img-732",
     "src": "/images/gallery-archive/img-732.webp",
     "title": "Lvi Int 1 2",
-    "category": "General",
+    "category": "Institutional",
     "filename": "img-732.webp",
     "originalName": "lvi-int-1-2.jpg",
     "size": 44740
@@ -6591,7 +5106,7 @@
     "id": "img-733",
     "src": "/images/gallery-archive/img-733.webp",
     "title": "Lvi Int 1",
-    "category": "General",
+    "category": "Institutional",
     "filename": "img-733.webp",
     "originalName": "lvi-int-1.jpg",
     "size": 38102
@@ -6600,7 +5115,7 @@
     "id": "img-734",
     "src": "/images/gallery-archive/img-734.webp",
     "title": "Lvi Int 2 1",
-    "category": "General",
+    "category": "Institutional",
     "filename": "img-734.webp",
     "originalName": "lvi-int-2-1.jpg",
     "size": 28740
@@ -6609,7 +5124,7 @@
     "id": "img-735",
     "src": "/images/gallery-archive/img-735.webp",
     "title": "Lvi Int",
-    "category": "General",
+    "category": "Institutional",
     "filename": "img-735.webp",
     "originalName": "lvi-int.jpg",
     "size": 44740
@@ -6618,7 +5133,7 @@
     "id": "img-736",
     "src": "/images/gallery-archive/img-736.webp",
     "title": "MainLobby 03 Scaled",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-736.webp",
     "originalName": "MainLobby_03-scaled.jpg",
     "size": 67582
@@ -6627,7 +5142,7 @@
     "id": "img-737",
     "src": "/images/gallery-archive/img-737.webp",
     "title": "MainLobby 03",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-737.webp",
     "originalName": "MainLobby_03.jpg",
     "size": 67544
@@ -6658,15 +5173,6 @@
     "filename": "img-740.webp",
     "originalName": "montco-college-health-center-5-1.jpg",
     "size": 75042
-  },
-  {
-    "id": "img-741",
-    "src": "/images/gallery-archive/img-741.webp",
-    "title": "Nic",
-    "category": "General",
-    "filename": "img-741.webp",
-    "originalName": "nic.jpg",
-    "size": 14640
   },
   {
     "id": "img-742",
@@ -6762,7 +5268,7 @@
     "id": "img-752",
     "src": "/images/gallery-archive/img-752.webp",
     "title": "Panarama Img01 Scaled",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-752.webp",
     "originalName": "Panarama_img01-scaled.jpg",
     "size": 28472
@@ -6771,7 +5277,7 @@
     "id": "img-753",
     "src": "/images/gallery-archive/img-753.webp",
     "title": "Panarama Img01",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-753.webp",
     "originalName": "Panarama_img01.jpg",
     "size": 29282
@@ -6780,7 +5286,7 @@
     "id": "img-754",
     "src": "/images/gallery-archive/img-754.webp",
     "title": "Picture6",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-754.webp",
     "originalName": "Picture6.jpg",
     "size": 31528
@@ -6789,7 +5295,7 @@
     "id": "img-755",
     "src": "/images/gallery-archive/img-755.webp",
     "title": "Picture7",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-755.webp",
     "originalName": "Picture7.jpg",
     "size": 34958
@@ -6798,7 +5304,7 @@
     "id": "img-756",
     "src": "/images/gallery-archive/img-756.webp",
     "title": "Pool",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-756.webp",
     "originalName": "pool.jpg",
     "size": 22704
@@ -6807,7 +5313,7 @@
     "id": "img-757",
     "src": "/images/gallery-archive/img-757.webp",
     "title": "Proshop 02 Scaled",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-757.webp",
     "originalName": "Proshop_02-scaled.jpg",
     "size": 134506
@@ -6816,7 +5322,7 @@
     "id": "img-758",
     "src": "/images/gallery-archive/img-758.webp",
     "title": "Proshop 02",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-758.webp",
     "originalName": "Proshop_02.jpg",
     "size": 133110
@@ -6825,7 +5331,7 @@
     "id": "img-759",
     "src": "/images/gallery-archive/img-759.webp",
     "title": "Qa",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-759.webp",
     "originalName": "qa.jpg",
     "size": 67168
@@ -7419,7 +5925,7 @@
     "id": "img-825",
     "src": "/images/gallery-archive/img-825.webp",
     "title": "Rainbow 1 1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-825.webp",
     "originalName": "Rainbow-1-1.jpg",
     "size": 68782
@@ -7428,7 +5934,7 @@
     "id": "img-826",
     "src": "/images/gallery-archive/img-826.webp",
     "title": "Rainbow 1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-826.webp",
     "originalName": "Rainbow-1.jpg",
     "size": 68782
@@ -7437,7 +5943,7 @@
     "id": "img-827",
     "src": "/images/gallery-archive/img-827.webp",
     "title": "Rainbow 2 1",
-    "category": "General",
+    "category": "Education",
     "filename": "img-827.webp",
     "originalName": "Rainbow-2-1.jpg",
     "size": 68782
@@ -7446,7 +5952,7 @@
     "id": "img-828",
     "src": "/images/gallery-archive/img-828.webp",
     "title": "Rainbow 2",
-    "category": "General",
+    "category": "Education",
     "filename": "img-828.webp",
     "originalName": "Rainbow-2.jpg",
     "size": 68782
@@ -7455,7 +5961,7 @@
     "id": "img-829",
     "src": "/images/gallery-archive/img-829.webp",
     "title": "S1",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-829.webp",
     "originalName": "S1.jpg",
     "size": 52536
@@ -7464,7 +5970,7 @@
     "id": "img-830",
     "src": "/images/gallery-archive/img-830.webp",
     "title": "S2",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-830.webp",
     "originalName": "S2.jpg",
     "size": 34222
@@ -7473,7 +5979,7 @@
     "id": "img-831",
     "src": "/images/gallery-archive/img-831.webp",
     "title": "S3",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-831.webp",
     "originalName": "S3.jpg",
     "size": 26252
@@ -7482,7 +5988,7 @@
     "id": "img-832",
     "src": "/images/gallery-archive/img-832.webp",
     "title": "S4",
-    "category": "General",
+    "category": "Field & Construction",
     "filename": "img-832.webp",
     "originalName": "S4.jpg",
     "size": 54294
@@ -7491,7 +5997,7 @@
     "id": "img-833",
     "src": "/images/gallery-archive/img-833.webp",
     "title": "Simulator 01 Scaled",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-833.webp",
     "originalName": "Simulator_01-scaled.jpg",
     "size": 60508
@@ -7500,7 +6006,7 @@
     "id": "img-834",
     "src": "/images/gallery-archive/img-834.webp",
     "title": "Simulator 01",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-834.webp",
     "originalName": "Simulator_01.jpg",
     "size": 60748
@@ -7509,7 +6015,7 @@
     "id": "img-835",
     "src": "/images/gallery-archive/img-835.webp",
     "title": "Simulator 03 Scaled",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-835.webp",
     "originalName": "Simulator_03-scaled.jpg",
     "size": 65136
@@ -7518,7 +6024,7 @@
     "id": "img-836",
     "src": "/images/gallery-archive/img-836.webp",
     "title": "Simulator 03",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-836.webp",
     "originalName": "Simulator_03.jpg",
     "size": 65202
@@ -7527,7 +6033,7 @@
     "id": "img-837",
     "src": "/images/gallery-archive/img-837.webp",
     "title": "Stair 02 Scaled",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-837.webp",
     "originalName": "Stair_02-scaled.jpg",
     "size": 79722
@@ -7536,7 +6042,7 @@
     "id": "img-838",
     "src": "/images/gallery-archive/img-838.webp",
     "title": "Stair 02",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-838.webp",
     "originalName": "Stair_02.jpg",
     "size": 78936
@@ -7545,7 +6051,7 @@
     "id": "img-839",
     "src": "/images/gallery-archive/img-839.webp",
     "title": "THPhoenixville Int1",
-    "category": "General",
+    "category": "Healthcare",
     "filename": "img-839.webp",
     "originalName": "THPhoenixville_int1.jpeg",
     "size": 46344
@@ -7554,7 +6060,7 @@
     "id": "img-840",
     "src": "/images/gallery-archive/img-840.webp",
     "title": "THPhoenixville Int2",
-    "category": "General",
+    "category": "Healthcare",
     "filename": "img-840.webp",
     "originalName": "THPhoenixville_int2.jpeg",
     "size": 51194
@@ -7563,7 +6069,7 @@
     "id": "img-841",
     "src": "/images/gallery-archive/img-841.webp",
     "title": "THPhoenixville NursingAnnual Exterior 1",
-    "category": "Field & Construction",
+    "category": "Healthcare",
     "filename": "img-841.webp",
     "originalName": "THPhoenixville_NursingAnnual_Exterior-1.jpg",
     "size": 30204
@@ -7572,7 +6078,7 @@
     "id": "img-842",
     "src": "/images/gallery-archive/img-842.webp",
     "title": "THPhoenixville NursingAnnual Exterior",
-    "category": "Field & Construction",
+    "category": "Healthcare",
     "filename": "img-842.webp",
     "originalName": "THPhoenixville_NursingAnnual_Exterior.jpg",
     "size": 46616
@@ -7686,19 +6192,10 @@
     "size": 56770
   },
   {
-    "id": "img-855",
-    "src": "/images/gallery-archive/img-855.webp",
-    "title": "V1",
-    "category": "General",
-    "filename": "img-855.webp",
-    "originalName": "v1.jpg",
-    "size": 57674
-  },
-  {
     "id": "img-856",
     "src": "/images/gallery-archive/img-856.webp",
     "title": "Welcome 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-856.webp",
     "originalName": "welcome-1.jpg",
     "size": 34958
@@ -7803,15 +6300,6 @@
     "size": 163180
   },
   {
-    "id": "img-868",
-    "src": "/images/gallery-archive/img-868.webp",
-    "title": "Xc5",
-    "category": "General",
-    "filename": "img-868.webp",
-    "originalName": "xc5.jpg",
-    "size": 97944
-  },
-  {
     "id": "img-869",
     "src": "/images/gallery-archive/img-869.webp",
     "title": "Banquet 01 Scaled 1",
@@ -7824,7 +6312,7 @@
     "id": "img-870",
     "src": "/images/gallery-archive/img-870.webp",
     "title": "Burgess 01 Scaled 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-870.webp",
     "originalName": "Burgess_01-scaled-1.jpg",
     "size": 112140
@@ -7833,7 +6321,7 @@
     "id": "img-871",
     "src": "/images/gallery-archive/img-871.webp",
     "title": "Burgess 03 Scaled 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-871.webp",
     "originalName": "Burgess_03-scaled-1.jpg",
     "size": 130750
@@ -7860,7 +6348,7 @@
     "id": "img-874",
     "src": "/images/gallery-archive/img-874.webp",
     "title": "MainLobby 03 Scaled 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-874.webp",
     "originalName": "MainLobby_03-scaled-1.jpg",
     "size": 67582
@@ -7869,7 +6357,7 @@
     "id": "img-875",
     "src": "/images/gallery-archive/img-875.webp",
     "title": "Proshop 02 Scaled 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-875.webp",
     "originalName": "Proshop_02-scaled-1.jpg",
     "size": 134506
@@ -7878,7 +6366,7 @@
     "id": "img-876",
     "src": "/images/gallery-archive/img-876.webp",
     "title": "Simulator 01 Scaled 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-876.webp",
     "originalName": "Simulator_01-scaled-1.jpg",
     "size": 60508
@@ -7887,7 +6375,7 @@
     "id": "img-877",
     "src": "/images/gallery-archive/img-877.webp",
     "title": "Simulator 03 Scaled 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-877.webp",
     "originalName": "Simulator_03-scaled-1.jpg",
     "size": 65136
@@ -7896,7 +6384,7 @@
     "id": "img-878",
     "src": "/images/gallery-archive/img-878.webp",
     "title": "Stair 02 Scaled 1",
-    "category": "General",
+    "category": "Commercial",
     "filename": "img-878.webp",
     "originalName": "Stair_02-scaled-1.jpg",
     "size": 79722

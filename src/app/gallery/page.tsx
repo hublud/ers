@@ -70,10 +70,10 @@ const GALLERY_PHOTOS: GalleryItem[] = [
   },
   {
     id: "g6",
-    title: "Ardmore Field Supervision & Operations",
+    title: "Ardmore Community Center Facility",
     category: "Commercial",
-    src: "/images/people/ardmore-team.jpg",
-    description: "Hands-on field supervision and trade coordination ensuring safety, quality, and schedule adherence.",
+    src: "/images/projects/ardmore-card.jpg",
+    description: "Modern municipal and community center facility built with an energy-efficient architectural envelope.",
   },
 
   // Municipal
@@ -197,10 +197,10 @@ const GALLERY_PHOTOS: GalleryItem[] = [
   },
   {
     id: "g23",
-    title: "Palmerton School District Campus",
+    title: "Norristown Area High School Complex",
     category: "Institutional",
-    src: "/images/projects/palmerton-sd-card.jpg",
-    description: "Extensive campus upgrades, structural additions, and modern administrative facilities.",
+    src: "/images/Norristown-School.png",
+    description: "Major secondary educational complex expansion and architectural modernization delivered to top institutional standards.",
   },
 ];
 
